@@ -36,3 +36,9 @@ pip-wheel-metadata/
 # --- OS Files ---
 .DS_Store
 Thumbs.db
+
+# Ignore large ML model
+Retail-Web-Session-Intelligence/Models/Best_random_forest_model.pkl
+
+# Ignore huge dataset
+Retail-Web-Session-Intelligence/Data/data_final_dataset_for_training.csv
