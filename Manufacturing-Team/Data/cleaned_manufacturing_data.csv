@@ -1,0 +1,1194 @@
+recordDate,fiscalQuarter,productionDept,dayOfWeek,team,plannedEfficiency,standardMinuteValue,workInProgress,overtimeMinutes,performanceBonus,idleMinutes,idleWorkers,styleChangeCount,workerCount,efficiencyScore,idleOccurred
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-S1,0.6,22.53,800.5,5040,0,0.0,0,Minor Style Revision,42.0,0.268214286,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-F3,0.8,11.41,1028.0,4380,50,0.0,0,No Style Change,31.0,0.800358775,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.681060606,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.325,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-C1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.667604167,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-F2,0.8,30.1,800.5,0,0,0.0,0,No Style Change,59.0,0.800980392,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-S1,0.5499999999999998,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.768847222,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-S1,0.5499999999999998,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.768847222,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-C1,0.65,22.52,1252.5,10170,26,0.0,0,No Style Change,56.5,0.650416734,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-Q1,0.75,18.79,1228.0,6240,45,0.0,0,No Style Change,52.0,0.750395513,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-P1,0.7,20.55,1252.5,6480,60,0.0,0,No Style Change,54.0,0.700398148,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-F1,0.8,3.94,1039.0,6600,0,0.0,0,No Style Change,20.0,0.861679012,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-S1,0.8,26.16,1033.0,7080,63,0.0,0,No Style Change,59.0,0.800318644,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-S3,0.5499999999999998,5.13,1039.0,2880,0,0.0,0,No Style Change,12.0,0.81640625,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-C1,0.8,25.9,1150.0,10170,70,0.0,0,No Style Change,56.5,0.900144811,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-S3,0.75,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.93532197,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-S2,0.8,22.52,1252.5,0,113,0.0,0,No Style Change,57.5,1.000344928,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-P1,0.6,11.41,1039.0,2280,23,0.0,0,Major Design Shift,55.0,0.600447507,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-C2,0.6,30.1,1069.0,4560,30,0.0,0,Minor Style Revision,58.0,0.714410494,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-F1,0.75,22.52,867.0,10260,94,0.0,0,No Style Change,57.0,0.900321106,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-S1,0.8,22.52,1252.5,0,113,0.0,0,No Style Change,57.0,1.000065789,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-F3,0.7,18.79,913.0,4020,30,0.0,0,No Style Change,33.5,0.700184577,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-S1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.893066667,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-S1,0.8,3.94,1039.0,2880,0,0.0,0,No Style Change,12.0,0.727349537,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-S3,0.75,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.83,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-S2,0.5499999999999998,22.94,1044.0,9810,23,0.0,0,No Style Change,54.5,0.499998888,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-C2,0.5499999999999998,4.15,1039.0,1440,0,0.0,0,No Style Change,12.0,0.994375,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-S1,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-Q2,0.7,21.25,1252.5,6000,0,0.0,0,Minor Style Revision,50.0,0.456875,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-F1,0.8,4.3,1039.0,1440,0,0.0,0,No Style Change,12.0,0.5375,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-Q2,0.8,22.52,1116.0,6720,93,0.0,0,No Style Change,56.0,0.920236905,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-P2,0.8,15.26,1060.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.912037037,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-P2,0.75,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.634666667,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-F2,0.7,20.4,1252.5,10440,50,0.0,0,No Style Change,58.0,0.750344828,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-C2,0.7,24.26,1252.5,6660,0,0.0,0,No Style Change,55.5,0.586465465,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-F1,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,1.033155556,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-S1,0.8,26.16,1138.0,7080,63,0.0,0,No Style Change,59.0,0.800318644,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-P2,0.8,15.26,1095.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.549791667,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-S1,0.7,22.94,1252.5,12180,63,0.0,0,No Style Change,57.0,0.750162367,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-Q1,0.8,26.16,1252.5,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-F2,0.7,4.6,1039.0,960,0,0.0,0,No Style Change,8.0,0.592083333,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-F1,0.75,22.52,825.0,10080,94,0.0,0,No Style Change,56.0,0.900556277,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-F3,0.75,18.79,1055.0,3960,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-P2,0.8,15.26,1035.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-Q1,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.410833333,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-S1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.902916667,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-F3,0.8,11.61,800.5,6975,50,0.0,0,No Style Change,31.0,0.879714482,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-P1,0.8,11.41,800.5,0,38,0.0,0,No Style Change,56.0,0.800701754,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-S1,0.75,26.82,1252.5,7140,65,0.0,0,No Style Change,59.0,0.850426891,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.749166667,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-Q2,0.8,28.08,1082.0,10530,63,0.0,0,No Style Change,58.5,0.8,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.8319375,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-F2,0.65,20.4,1252.5,8280,35,0.0,0,No Style Change,58.0,0.650066445,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-C2,0.75,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.376597222,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-S3,0.75,29.4,1144.0,4440,45,0.0,0,Major Design Shift,57.0,0.750716981,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-F1,0.8,4.3,1039.0,1440,0,0.0,0,No Style Change,12.0,0.722638889,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-F2,0.5499999999999998,3.94,1039.0,2400,0,0.0,0,No Style Change,10.0,0.80575,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.692045455,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-Q2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.846950758,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-F2,0.65,20.79,1141.0,8460,0,0.0,0,No Style Change,59.0,0.650040783,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-P1,0.8,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.888686869,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-F2,0.5499999999999998,20.79,966.0,7680,0,0.0,0,No Style Change,56.0,0.388007813,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-F3,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.495416667,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-P2,0.8,11.61,1216.0,6975,50,0.0,0,No Style Change,31.0,0.800030199,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-F1,0.75,4.3,1039.0,6000,0,0.0,0,No Style Change,20.0,0.978525641,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-Q1,0.8,29.12,800.5,6960,0,0.0,0,No Style Change,58.0,0.497885057,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-F2,0.7,30.1,800.5,7500,0,0.0,0,No Style Change,59.0,0.545657673,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-S1,0.7,22.94,1252.5,10530,75,0.0,0,No Style Change,58.5,0.800909609,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-F2,0.7,4.15,1039.0,3840,0,0.0,0,No Style Change,8.0,0.821354167,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-F2,0.7,26.82,992.0,6960,30,0.0,0,Minor Style Revision,58.0,0.700556897,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-P1,0.75,19.31,800.5,6480,45,0.0,0,No Style Change,54.0,0.750348457,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-Q2,0.75,28.08,1083.0,7020,45,0.0,0,No Style Change,58.5,0.7504,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-S1,0.5499999999999998,22.94,1252.5,10170,30,0.0,0,No Style Change,56.5,0.549969429,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-S3,0.8,19.87,1043.0,6420,0,0.0,0,No Style Change,55.0,0.690182815,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-Q2,0.7,28.08,1202.0,6900,40,0.0,0,No Style Change,57.5,0.699965217,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-S3,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.861875,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-P2,0.8,15.26,1126.0,1080,38,0.0,0,No Style Change,34.0,0.800711494,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,58.0,0.800034503,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-Q2,0.8,3.94,1039.0,5400,0,0.0,0,No Style Change,20.0,0.912766667,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-S1,0.75,22.94,1252.5,6960,81,0.0,0,No Style Change,58.0,0.850362069,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.804640152,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-S2,0.7,22.94,1252.5,10260,50,0.0,0,No Style Change,57.0,0.750031898,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-C1,0.8,30.1,800.5,7080,0,0.0,0,No Style Change,59.0,0.800115819,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-P1,0.65,20.1,1252.5,6480,49,0.0,0,No Style Change,54.0,0.650148148,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-S1,0.8,22.94,1252.5,7020,113,0.0,0,No Style Change,58.5,1.000602279,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-C2,0.7,29.12,1248.0,6840,0,0.0,0,No Style Change,57.0,0.700135088,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-S1,0.5499999999999998,26.66,1252.5,6840,30,0.0,0,Major Design Shift,57.0,0.550349708,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-Q1,0.75,18.79,1085.0,6240,56,0.0,0,Minor Style Revision,52.0,0.970816667,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-C2,0.8,25.9,1252.5,10170,50,0.0,0,No Style Change,56.5,0.800128721,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-F2,0.7,20.4,1252.5,10440,40,0.0,0,No Style Change,58.0,0.700250784,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-S2,0.8,5.13,1039.0,4800,0,0.0,0,No Style Change,20.0,0.8300625,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-P1,0.75,10.05,800.5,3240,45,0.0,0,No Style Change,27.0,0.750027778,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-F1,0.7,30.1,800.5,5940,40,0.0,0,Minor Style Revision,59.5,0.700588406,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-Q2,0.8,22.52,1175.0,6720,60,0.0,0,No Style Change,56.0,0.850532143,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-F1,0.65,26.66,832.0,6780,55,0.0,0,No Style Change,57.0,0.750254867,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-F3,0.8,2.9,1039.0,1800,0,0.0,0,No Style Change,10.0,0.666515152,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-S3,0.8,30.1,800.5,6960,63,0.0,0,Minor Style Revision,58.0,0.800071839,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-Q2,0.75,28.08,1066.0,10530,69,0.0,0,No Style Change,58.5,0.8,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-S2,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-C2,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.664583333,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-P1,0.75,11.41,834.0,3480,0,0.0,0,Major Design Shift,58.0,0.672140805,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-F2,0.75,30.1,800.5,7080,56,0.0,0,No Style Change,59.0,0.750799435,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-F3,0.7,23.41,1128.0,4560,40,0.0,0,Minor Style Revision,38.0,0.700246491,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-Q2,0.7,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.902222222,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-F3,0.75,18.79,1003.0,3960,45,0.0,0,Minor Style Revision,33.0,0.75065101,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-P1,0.8,11.61,800.5,0,50,0.0,0,No Style Change,57.0,0.800309211,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-S3,0.75,22.52,1252.5,10260,69,0.0,0,No Style Change,57.0,0.80035194,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-Q2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.979527778,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-P1,0.8,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.817424242,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-S2,0.8,3.94,1039.0,2640,0,0.0,0,No Style Change,22.0,0.999924242,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-C2,0.7,30.1,800.5,7080,27,2.0,10,Major Design Shift,59.0,0.621971751,1
+2015-02-14,Q2,Stitching Unit,Saturday,Line-F3,0.8,18.79,822.0,4080,0,0.0,0,No Style Change,34.0,0.557252451,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-Q1,0.8,26.16,1232.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-F1,0.8,28.08,800.5,10440,63,0.0,0,No Style Change,58.0,0.801028213,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-P2,0.7,15.26,1252.5,4080,40,0.0,0,No Style Change,34.0,0.700164706,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-F2,0.6,20.79,1208.0,7980,0,0.0,0,No Style Change,57.0,0.452979626,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-C1,0.7,24.26,800.5,6960,0,270.0,45,No Style Change,58.0,0.662270115,1
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-F1,0.8,4.3,1039.0,1440,0,0.0,0,No Style Change,12.0,0.809236111,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-C2,0.7,4.6,1039.0,960,0,0.0,0,No Style Change,8.0,0.791458333,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-S1,0.65,22.53,800.5,5040,0,0.0,0,Minor Style Revision,42.0,0.581130952,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-Q1,0.75,18.79,1247.0,6240,45,0.0,0,No Style Change,52.0,0.750395513,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-Q2,0.7,22.52,1108.0,10080,63,0.0,0,No Style Change,56.0,0.750057359,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-Q2,0.8,22.52,1252.5,0,88,0.0,0,No Style Change,56.0,0.90063244,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-Q1,0.8,26.16,1216.0,10620,88,0.0,0,No Style Change,59.0,0.900215716,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-P2,0.8,15.26,1133.0,4080,38,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-Q1,0.8,29.12,1069.0,6960,50,0.0,0,No Style Change,58.0,0.799963218,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.606912879,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-F3,0.65,23.41,1252.5,4560,35,0.0,0,Minor Style Revision,38.0,0.650962281,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-Q1,0.65,29.12,1086.0,10440,26,0.0,0,No Style Change,58.0,0.650407524,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-P1,0.8,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.601278409,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-C2,0.7,29.4,1116.0,6240,0,0.0,0,Major Design Shift,57.0,0.7,0
+2015-02-04,Q1, Finishing & Quality ,Wednesday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.687555556,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-C2,0.6,24.26,1196.0,6600,0,0.0,0,No Style Change,55.0,0.466821212,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-P2,0.7,4.08,1039.0,1620,0,0.0,0,No Style Change,9.0,0.618181818,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-C2,0.5499999999999998,15.09,1252.5,720,23,0.0,0,No Style Change,52.0,0.500061916,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-S1,0.75,22.94,1252.5,6960,55,0.0,0,No Style Change,58.0,0.800263218,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-S1,0.8,22.52,800.5,3840,63,0.0,0,No Style Change,57.0,0.800470513,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-C1,0.8,4.6,1039.0,6000,0,0.0,0,No Style Change,25.0,0.825444444,0
+2015-02-09,Q2,Finishing & Quality,Monday,Line-F3,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.888125,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-F2,0.8,30.1,800.5,7140,0,0.0,0,No Style Change,59.5,0.722568627,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-Q2,0.7,21.82,1252.5,5640,30,0.0,0,No Style Change,52.0,0.700236601,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-S1,0.7,22.94,1252.5,10440,60,0.0,0,No Style Change,58.0,0.800023511,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-C2,0.5499999999999998,23.54,1144.0,6480,0,0.0,0,No Style Change,54.0,0.286984568,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-C1,0.7,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.971866667,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-C2,0.7,24.26,800.5,6840,0,0.0,0,No Style Change,57.0,0.353259649,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-Q1,0.8,54.56,800.5,4140,29,0.0,0,No Style Change,58.0,0.520237649,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-S3,0.8,4.6,1039.0,2400,0,0.0,0,No Style Change,20.0,0.900833333,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-P1,0.8,4.15,1039.0,1260,0,0.0,0,No Style Change,7.0,0.313852814,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-Q1,0.8,26.16,1196.0,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-Q2,0.8,50.48,800.5,6930,45,0.0,0,No Style Change,58.5,0.688557555,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-F1,0.65,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.806879167,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-F1,0.7,22.52,882.0,10170,50,0.0,0,No Style Change,56.5,0.7005417,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-S3,0.7,22.52,1095.0,10170,50,0.0,0,No Style Change,56.5,0.750062751,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-Q2,0.8,3.94,1039.0,3420,0,0.0,0,No Style Change,19.0,0.953110048,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-Q2,0.8,22.52,1188.0,6720,90,0.0,0,No Style Change,56.0,0.999995238,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-Q2,0.75,3.94,1039.0,3780,0,0.0,0,No Style Change,21.0,0.997792208,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-Q1,0.6,29.12,925.0,6660,23,0.0,0,No Style Change,58.0,0.600125217,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-C1,0.8,48.84,1040.0,10260,30,0.0,0,No Style Change,57.0,0.576460393,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-F3,0.75,18.79,912.0,3960,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-F2,0.7,20.79,800.5,10440,0,0.0,0,No Style Change,58.0,0.700060345,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-S2,0.6,22.94,865.0,6570,23,0.0,0,No Style Change,56.5,0.77011398,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-F2,0.8,30.1,800.5,7140,0,0.0,0,No Style Change,59.0,0.653431373,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-C1,0.8,25.9,1035.0,10170,38,0.0,0,No Style Change,56.5,0.800128721,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-P2,0.7,15.26,1252.5,6120,40,0.0,0,No Style Change,34.0,0.70043672,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-P1,0.7,11.41,1054.0,3420,30,0.0,0,Major Design Shift,56.0,0.700614035,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-C1,0.8,25.9,1138.0,6720,38,0.0,0,No Style Change,56.0,0.800125,0
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-F3,0.6,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.280333333,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-F2,0.8,30.1,800.5,600,63,3.5,15,No Style Change,59.5,0.799982853,1
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-F3,0.8,11.61,916.0,5760,75,0.0,0,No Style Change,89.0,0.850410511,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-F2,0.6,27.48,800.5,6720,38,0.0,0,No Style Change,56.0,0.707446429,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-Q1,0.8,26.16,1093.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-P2,0.8,15.26,983.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-Q2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.828295455,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-S3,0.6,22.52,1140.0,10170,30,0.0,0,No Style Change,56.5,0.600291767,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-S1,0.8,26.16,1187.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.966759259,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-Q1,0.8,29.12,800.5,3240,50,0.0,0,No Style Change,58.0,0.800144144,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-S1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.890604167,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.725,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-C2,0.75,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.702777778,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-P1,0.8,2.9,1039.0,0,960,0.0,0,No Style Change,8.0,0.960625,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-F3,0.8,2.9,1039.0,900,0,0.0,0,No Style Change,5.0,0.465757576,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-Q2,0.7,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.664583333,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-Q1,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.964106061,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-C1,0.65,3.94,1039.0,2520,0,0.0,0,No Style Change,14.0,0.749188312,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-C2,0.7,4.6,1039.0,960,0,0.0,0,No Style Change,8.0,0.658541667,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-C1,0.7,22.52,800.5,10170,40,0.0,0,No Style Change,56.5,0.7005417,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-P1,0.6,20.1,1252.5,4320,46,0.0,0,No Style Change,51.0,0.60059761,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-Q1,0.7,28.08,872.0,6900,44,0.0,0,No Style Change,57.5,0.721126957,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-Q2,0.8,22.52,800.5,0,75,0.0,0,No Style Change,56.0,0.850364583,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-Q2,0.75,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.937242424,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-S1,0.8,26.16,1099.0,8220,75,0.0,0,No Style Change,59.0,0.850522167,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-F2,0.7,45.67,884.0,6960,26,0.0,0,No Style Change,58.0,0.603432184,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-S3,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-P1,0.7,14.89,1252.5,10260,50,0.0,0,No Style Change,57.0,0.700170388,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-Q2,0.6,22.52,1076.0,10170,23,0.0,0,No Style Change,56.5,0.600291767,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.54175,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-P2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.868888889,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-C2,0.7,24.26,800.5,6840,0,300.0,37,No Style Change,57.0,0.365318713,1
+2015-02-01,Q1,Stitching Unit,Sunday,Line-F1,0.8,22.52,1252.5,7020,60,0.0,0,No Style Change,58.5,0.85011396,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-F3,0.75,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.271875,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-F1,0.75,4.15,1039.0,2400,0,0.0,0,No Style Change,20.0,0.287041667,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-Q2,0.7,21.25,1252.5,6000,0,0.0,0,Minor Style Revision,50.0,0.417916667,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-P2,0.8,15.26,900.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-Q2,0.7,22.52,938.0,10080,63,0.0,0,No Style Change,56.0,0.750057359,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-Q2,0.7,21.82,1252.5,6000,30,0.0,0,No Style Change,50.0,0.700422,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-S2,0.8,5.13,1039.0,1440,0,0.0,0,No Style Change,12.0,0.919125,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-S2,0.8,5.13,1039.0,1800,0,0.0,0,No Style Change,15.0,0.5814,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-P1,0.75,11.41,826.0,2820,0,0.0,0,Major Design Shift,58.0,0.750293939,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-F1,0.7,22.52,825.0,10170,50,0.0,0,No Style Change,56.5,0.7005417,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-C2,0.8,25.9,1177.0,8970,60,0.0,0,No Style Change,56.5,0.850415628,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-Q2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.771583333,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-S3,0.8,4.15,1039.0,1440,0,0.0,0,No Style Change,7.0,0.820833333,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,1.02,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,58.0,0.800034503,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-S3,0.75,29.4,1143.0,6840,45,0.0,0,No Style Change,57.0,0.750473684,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-F2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.902962963,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-S1,0.7,26.82,1252.5,6960,50,0.0,0,No Style Change,58.0,0.750651724,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.483333333,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-Q2,0.75,22.52,1252.5,10080,55,0.0,0,No Style Change,56.0,0.800020563,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-Q2,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,20.0,0.955791667,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-Q2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.971866667,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-F1,0.8,3.94,1039.0,4440,0,0.0,0,No Style Change,18.0,0.966781346,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.681060606,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-S2,0.8,22.52,1252.5,6780,113,0.0,0,No Style Change,56.5,1.000446018,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-C1,0.5499999999999998,30.48,1161.0,6600,0,0.0,0,Minor Style Revision,55.0,0.500610909,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.891723485,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-F2,0.8,30.1,800.5,7140,38,0.0,0,No Style Change,59.0,0.800137255,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-Q2,0.75,3.94,1039.0,3420,0,0.0,0,No Style Change,19.0,0.955151515,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-F2,0.7,27.48,800.5,6960,24,0.0,0,Minor Style Revision,58.0,0.408960345,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-P1,0.7,14.89,1252.5,10260,50,0.0,0,No Style Change,57.0,0.700170388,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-C2,0.65,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.971866667,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-S2,0.6,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.950625,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-C1,0.7,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.715766667,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-F1,0.8,30.1,922.0,5820,63,0.0,0,Minor Style Revision,59.0,0.80000295,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-C2,0.7,30.48,914.0,6840,30,0.0,0,Minor Style Revision,57.0,0.700505263,0
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-S1,0.75,3.94,1039.0,2280,0,0.0,0,No Style Change,19.0,0.504596491,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-Q2,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.763375,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-F1,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,1.096633333,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-F2,0.6,20.4,1031.0,10440,30,0.0,0,No Style Change,58.0,0.600062696,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.607416667,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-S3,0.75,29.4,1252.5,6960,45,0.0,0,Major Design Shift,58.0,0.750206897,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-F1,0.8,3.94,1039.0,3840,0,0.0,0,No Style Change,16.0,0.893663194,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-Q2,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.779791667,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-C2,0.65,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,1.0115625,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-F1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.806058333,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-S3,0.7,22.52,1139.0,10260,63,0.0,0,No Style Change,57.0,0.750068049,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-F3,0.8,11.41,800.5,14640,50,0.0,0,No Style Change,30.5,0.800024932,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-S3,0.5499999999999998,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.2565,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-S1,0.8,22.52,1252.5,3960,63,0.0,0,No Style Change,57.0,0.800279693,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-C1,0.8,25.9,1126.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-P2,0.8,26.87,800.5,5670,56,0.0,0,No Style Change,31.5,0.662255892,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-C1,0.8,25.9,1252.5,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-F3,0.75,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.271875,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-P1,0.5499999999999998,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.259375,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-S3,0.7,3.94,1039.0,12000,0,0.0,0,No Style Change,20.0,0.460578704,0
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-Q2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.85695,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-F2,0.65,30.1,800.5,5820,0,90.0,10,No Style Change,58.5,0.650834808,1
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-C2,0.7,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.58,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-C2,0.65,30.1,1193.0,7080,0,0.0,0,Minor Style Revision,59.0,0.463403955,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-P2,0.8,15.26,986.0,4080,75,0.0,0,No Style Change,34.0,0.850520588,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-F3,0.7,18.79,1252.5,3960,30,0.0,0,No Style Change,33.0,0.700354545,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-C1,0.75,30.1,800.5,5640,45,0.0,0,Minor Style Revision,59.0,0.750727326,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-C2,0.7,30.1,824.0,5160,0,0.0,0,Minor Style Revision,60.0,0.700206125,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-F1,0.8,22.52,800.5,5460,63,0.0,0,No Style Change,56.5,0.800434622,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.661837121,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-F3,0.7,18.79,800.5,2760,30,0.0,0,No Style Change,33.0,0.700079032,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-C1,0.75,30.1,800.5,2280,45,0.0,0,Minor Style Revision,59.0,0.75053268,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-F3,0.8,18.79,800.5,3960,0,0.0,0,No Style Change,33.0,0.688017677,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-C1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.6253125,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-F3,0.8,25.9,1152.0,6720,50,0.0,0,No Style Change,56.0,0.800125,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-F2,0.65,4.15,1039.0,1440,0,0.0,0,No Style Change,15.0,0.864583333,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-Q2,0.75,22.52,1252.5,10080,69,0.0,0,No Style Change,56.0,0.800020563,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-S2,0.8,28.08,800.5,10050,63,0.0,0,No Style Change,58.5,0.800497246,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-P2,0.8,15.26,1194.0,1700,62,0.0,0,No Style Change,34.0,0.800260821,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-P1,0.7,11.41,800.5,3360,30,0.0,0,Major Design Shift,56.0,0.8211125,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-P2,0.8,11.41,968.0,3660,50,0.0,0,No Style Change,30.5,0.800570492,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-S3,0.8,22.52,1112.0,6840,100,0.0,0,No Style Change,57.0,0.950185965,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.238041667,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-S3,0.8,29.4,1156.0,6840,50,0.0,0,No Style Change,57.0,0.800333333,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-F1,0.75,4.3,1039.0,9000,0,0.0,0,No Style Change,15.0,0.670216049,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-C1,0.7,30.1,800.5,840,30,0.0,0,Minor Style Revision,59.0,0.700888203,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.778222222,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-S3,0.75,29.4,1172.0,5340,45,0.0,0,Major Design Shift,60.0,0.750176991,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-S3,0.8,4.6,1039.0,1440,0,0.0,0,No Style Change,12.0,0.811388889,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-C1,0.6,3.94,1039.0,6000,0,0.0,0,No Style Change,10.0,0.957638889,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-S2,0.5499999999999998,15.28,800.5,5520,0,0.0,0,Minor Style Revision,46.0,0.404144928,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-P1,0.75,19.31,800.5,9900,45,0.0,0,No Style Change,55.0,0.750057851,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-F1,0.5499999999999998,30.1,800.5,6360,23,0.0,0,Minor Style Revision,53.0,0.500720126,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-F3,0.7,23.41,1180.0,4560,30,0.0,0,Minor Style Revision,38.0,0.700246491,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-Q2,0.8,22.52,1134.0,6720,70,0.0,0,No Style Change,56.0,0.900129762,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-Q1,0.6,18.79,1252.5,5400,0,0.0,0,Minor Style Revision,54.0,0.329964879,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-P2,0.8,15.26,961.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-S3,0.65,30.1,1252.5,600,63,0.0,0,Minor Style Revision,58.0,0.802243319,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-Q2,0.75,21.82,1252.5,6000,34,0.0,0,No Style Change,50.0,0.750608,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-F3,0.8,11.61,1004.0,5670,50,0.0,0,No Style Change,31.5,0.800246753,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,1.004888889,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-F1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.971866667,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-S3,0.5499999999999998,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.864583333,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-P1,0.75,4.15,1039.0,1800,0,0.0,0,No Style Change,10.0,0.896022727,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-Q1,0.8,2.9,1039.0,1920,0,0.0,0,No Style Change,8.0,0.820833333,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-S2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.804416667,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-C2,0.7,38.09,800.5,6240,0,0.0,0,No Style Change,52.0,0.467693269,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-P1,0.65,12.52,1004.0,9540,44,0.0,0,No Style Change,53.0,0.64998056,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-F2,0.8,11.41,800.5,3660,50,0.0,0,No Style Change,30.5,0.707045902,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-C2,0.75,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.813611111,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-F3,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.845833333,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-F2,0.6,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.852793561,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-F1,0.75,4.3,1039.0,2160,0,0.0,0,No Style Change,12.0,0.651515152,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.800888889,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-Q2,0.7,21.82,1251.0,6000,30,0.0,0,No Style Change,50.0,0.700422,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.6895,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-F2,0.5499999999999998,26.82,800.5,7080,23,0.0,0,Minor Style Revision,59.0,0.500033898,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-F3,0.5499999999999998,18.79,800.5,1800,23,0.0,0,No Style Change,32.0,0.437995338,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-Q1,0.75,18.79,895.0,6240,34,0.0,0,No Style Change,52.0,0.750395513,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-F3,0.65,18.79,881.0,3960,26,0.0,0,No Style Change,33.0,0.651007071,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-S1,0.7,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.910378788,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-P2,0.8,15.26,1064.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-C1,0.7,30.1,881.0,7080,0,0.0,0,Minor Style Revision,59.0,0.700632768,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-F1,0.75,4.3,1039.0,2160,0,0.0,0,No Style Change,12.0,0.963699495,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-F1,0.65,22.52,872.0,10080,26,0.0,0,No Style Change,56.0,0.650130952,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-P2,0.8,15.26,1021.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-Q2,0.5499999999999998,22.4,800.5,10170,23,0.0,0,No Style Change,56.5,0.35020649,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-P2,0.75,15.26,1252.5,1440,45,0.0,0,No Style Change,35.0,0.750450658,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-P1,0.8,11.41,968.0,3660,50,0.0,0,No Style Change,30.5,0.800570492,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-S2,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.755166667,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-P1,0.65,14.89,1140.0,10260,44,0.0,0,No Style Change,57.0,0.650299575,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-Q2,0.7,21.82,1252.5,6000,30,0.0,0,No Style Change,50.0,0.700422,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-Q1,0.6,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.261174242,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-C2,0.8,4.6,1039.0,960,0,0.0,0,No Style Change,8.0,0.930416667,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-Q2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.24625,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-F3,0.5499999999999998,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.977555556,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-P2,0.8,26.16,844.0,7080,63,0.0,0,No Style Change,59.0,0.800318644,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-Q2,0.75,21.82,1252.5,6000,34,0.0,0,No Style Change,50.0,0.750608,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-C2,0.7,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.976979167,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-S2,0.7,22.94,1252.5,10500,60,0.0,0,No Style Change,57.0,0.800415742,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-S1,0.75,26.82,1252.5,7080,75,0.0,0,No Style Change,59.0,0.900061017,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-C1,0.65,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.646306818,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-Q1,0.7,29.12,1143.0,10440,40,0.0,0,No Style Change,58.0,0.70061442,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-S1,0.8,22.52,1252.5,0,138,0.0,0,No Style Change,57.0,1.100483918,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-F1,0.8,22.52,1252.5,6660,88,0.0,0,No Style Change,57.5,0.900537069,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-S2,0.5499999999999998,15.28,800.5,5400,0,6.5,30,Minor Style Revision,45.0,0.30277037,1
+2015-03-02,Q1,Finishing & Quality,Monday,Line-C1,0.8,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.342361111,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-Q2,0.8,3.94,1039.0,1260,0,0.0,0,No Style Change,8.0,0.332359307,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.675568182,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-S3,0.8,28.08,913.0,6540,50,0.0,0,No Style Change,54.5,0.800322936,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-P2,0.5499999999999998,15.26,1111.0,6120,23,0.0,0,No Style Change,34.0,0.35021836,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-F3,0.75,18.79,899.0,3960,56,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-C2,0.8,25.9,1039.0,6780,45,0.0,0,No Style Change,56.5,0.850345133,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-F1,0.7,4.3,1039.0,5040,0,0.0,0,No Style Change,28.0,0.977272727,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-S1,0.8,26.16,1179.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-F3,0.75,18.79,895.0,3960,0,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-S3,0.75,19.87,800.5,6600,45,0.0,0,No Style Change,55.0,0.75024303,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-S1,0.75,26.82,1252.5,6960,65,0.0,0,No Style Change,58.0,0.85007069,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-P1,0.8,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.640577652,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-Q2,0.75,28.08,1144.0,10530,69,0.0,0,No Style Change,58.5,0.8,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-F3,0.6,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.314166667,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-C1,0.8,30.1,800.5,840,38,0.0,0,Minor Style Revision,59.0,0.799982853,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-Q2,0.8,22.52,1039.0,6720,113,0.0,0,No Style Change,56.0,0.999995238,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-F3,0.8,11.61,800.5,7200,50,0.0,0,No Style Change,32.0,0.800246011,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.966759259,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-C1,0.65,30.1,909.0,7080,0,0.0,0,Minor Style Revision,59.0,0.535677966,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.5565625,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-S1,0.7,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.578314394,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-P2,0.8,5.13,1039.0,1080,0,0.0,0,No Style Change,9.0,0.9025,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-F1,0.75,30.1,919.0,7140,0,0.0,0,Minor Style Revision,59.5,0.598627451,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.656666667,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-Q1,0.75,18.79,1096.0,6240,34,0.0,0,No Style Change,52.0,0.750395513,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-S2,0.75,22.94,1252.5,10530,81,0.0,0,No Style Change,58.5,0.850223776,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-F1,0.8,22.52,1252.5,6780,50,0.0,0,No Style Change,56.5,0.800489676,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-S2,0.7,22.94,1006.0,10170,38,0.0,0,No Style Change,56.5,0.750517565,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-P1,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.5046875,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-S1,0.8,49.1,1252.5,10350,24,0.0,0,No Style Change,57.5,0.403242161,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-F1,0.5499999999999998,30.1,800.5,6060,23,150.0,15,No Style Change,55.5,0.350706422,1
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-Q2,0.65,18.22,800.5,0,0,8.0,35,Minor Style Revision,49.0,0.302117347,1
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-P2,0.75,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.971866667,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-P2,0.8,5.13,1039.0,1080,0,0.0,0,No Style Change,9.0,0.9025,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-S3,0.75,22.52,1252.5,10350,55,0.0,0,No Style Change,57.5,0.800513307,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-S2,0.8,22.52,1252.5,0,90,0.0,0,No Style Change,57.5,1.000344928,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-P1,0.75,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.345833333,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.440375,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-S2,0.8,28.08,800.5,10350,50,0.0,0,No Style Change,57.5,0.800594466,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-S2,0.8,5.13,1039.0,3600,0,0.0,0,No Style Change,15.0,0.710125,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-F1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.664875,0
+2015-01-20,Q3, Finishing & Quality ,Tuesday,Line-P1,0.7,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.362666667,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-F1,0.8,30.1,800.5,4080,50,0.0,0,Minor Style Revision,59.0,0.800808642,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-Q2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.974621212,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-Q1,0.8,29.12,1073.0,6960,50,0.0,0,No Style Change,58.0,0.799963218,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.891555556,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-Q2,0.7,22.52,1206.0,10080,75,0.0,0,No Style Change,56.0,0.800020563,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-S1,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-S1,0.75,3.94,1039.0,2280,0,0.0,0,No Style Change,19.0,0.950438596,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-F2,0.7,30.1,800.5,7020,0,0.0,0,No Style Change,58.5,0.700618234,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-Q2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.85695,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-F2,0.75,30.1,800.5,7380,56,0.0,0,No Style Change,59.5,0.750406233,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-S2,0.8,28.08,805.0,10530,63,0.0,0,No Style Change,58.5,0.8,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-P2,0.8,4.6,1039.0,1800,0,0.0,0,No Style Change,15.0,0.899555556,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.601944444,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-F1,0.8,3.94,1039.0,4440,0,0.0,0,No Style Change,18.0,0.827186544,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-P1,0.7,4.15,1039.0,2700,0,0.0,0,No Style Change,9.0,0.470769231,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-F1,0.5499999999999998,4.3,1039.0,2700,0,0.0,0,No Style Change,8.0,0.908080808,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-S3,0.8,4.6,1039.0,6300,0,0.0,0,No Style Change,15.0,0.921703704,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-F3,0.75,18.79,947.0,2880,34,0.0,0,No Style Change,33.0,0.750797009,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-Q1,0.75,29.12,1070.0,6960,34,0.0,0,No Style Change,58.0,0.750593103,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-Q2,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.628333333,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-P2,0.8,15.26,854.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.884261364,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-S2,0.8,22.52,1252.5,6840,90,0.0,0,No Style Change,57.0,1.000230409,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-P1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.758229167,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-C2,0.8,25.9,1252.5,10170,50,0.0,0,No Style Change,56.5,0.800128721,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-Q1,0.8,29.12,909.0,6960,50,0.0,0,No Style Change,58.0,0.799963218,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-Q2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.8865,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-S1,0.65,26.66,1252.5,6840,65,0.0,0,No Style Change,57.0,0.800579532,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-Q2,0.8,28.08,800.5,10530,38,0.0,0,No Style Change,58.5,0.8,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-S3,0.8,19.87,857.0,9900,50,0.0,0,No Style Change,55.0,0.800273829,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-Q1,0.75,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.821666667,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-C1,0.7,30.1,957.0,7200,0,0.0,0,Minor Style Revision,60.0,0.602,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-F2,0.5499999999999998,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.857916667,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-C1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.676666667,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-F2,0.6,20.79,1045.0,6960,88,0.0,0,No Style Change,58.0,0.800534483,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.891555556,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-F2,0.75,30.1,800.5,7140,56,0.0,0,No Style Change,59.0,0.750392157,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-F2,0.8,11.61,800.5,7080,50,0.0,0,No Style Change,31.5,0.800148649,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-S2,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,15.0,0.902222222,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-P1,0.5499999999999998,12.52,800.5,9540,38,0.0,0,No Style Change,53.0,0.673245283,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-P2,0.8,11.61,1159.0,2970,50,0.0,0,No Style Change,31.5,0.800313433,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-Q2,0.7,22.52,1002.0,10080,40,0.0,0,No Style Change,56.0,0.700094156,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-P1,0.7,14.89,1252.5,10260,50,0.0,0,No Style Change,57.0,0.700170388,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-Q2,0.7,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.538399621,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-C1,0.8,25.9,1252.5,10170,50,0.0,0,No Style Change,56.5,0.800128721,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-F2,0.8,4.6,1039.0,7560,0,0.0,0,No Style Change,18.0,0.921604938,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-C2,0.8,25.9,1083.0,10170,38,0.0,0,No Style Change,56.5,0.800128721,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-P2,0.7,4.15,1039.0,1080,0,0.0,0,No Style Change,9.0,0.823555556,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-C2,0.75,29.4,800.5,6840,56,0.0,0,No Style Change,57.0,0.750473684,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-F1,0.8,30.1,901.0,6480,50,0.0,0,Minor Style Revision,59.0,0.800071839,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-S2,0.8,22.52,1252.5,6900,100,0.0,0,No Style Change,57.5,1.05028058,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-S1,0.8,22.52,1252.5,3600,70,0.0,0,No Style Change,57.0,0.900509044,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-S3,0.8,22.52,800.5,6840,0,0.0,0,Minor Style Revision,57.0,0.536901754,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-C1,0.7,30.1,800.5,600,30,0.0,0,Minor Style Revision,59.0,0.700459889,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-P2,0.8,15.26,942.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-F2,0.75,5.13,1039.0,1920,0,0.0,0,No Style Change,8.0,0.631354167,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-Q1,0.8,26.16,1227.0,7080,75,0.0,0,No Style Change,59.0,0.850569492,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-S1,0.7,26.82,1252.5,6960,50,0.0,0,No Style Change,58.0,0.750651724,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-P1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.657083333,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-S2,0.65,30.33,841.0,6840,0,0.0,0,Minor Style Revision,57.0,0.585315789,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-F1,0.7,26.82,1117.0,7080,50,0.0,0,No Style Change,59.0,0.750050847,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-C2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.625625,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-F3,0.8,11.41,1140.0,5490,63,0.0,0,No Style Change,30.5,0.800343766,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-Q2,0.5499999999999998,22.4,947.0,3390,23,0.0,0,No Style Change,56.5,0.499980334,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-Q2,0.7,21.82,1252.5,3240,0,0.0,0,Minor Style Revision,52.0,0.700251773,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-Q2,0.7,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.845833333,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-S2,0.65,22.94,1025.0,10170,26,0.0,0,No Style Change,56.5,0.650243497,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-F2,0.7,3.94,1039.0,240,0,0.0,0,No Style Change,2.0,0.971866667,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-S1,0.8,26.16,1073.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-C2,0.8,40.99,980.0,10770,30,0.0,0,No Style Change,56.5,0.555500132,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-F2,0.7,20.79,1252.5,10440,0,0.0,0,No Style Change,58.0,0.526810345,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,58.0,0.800034503,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-S2,0.8,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.36871875,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-S3,0.8,29.4,1169.0,6840,63,0.0,0,No Style Change,57.0,0.800333333,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-Q1,0.8,26.16,1252.5,3660,50,0.0,0,No Style Change,59.0,0.800015009,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-P2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.945555556,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-F3,0.75,18.79,800.5,4080,0,0.0,0,No Style Change,34.0,0.612517157,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-S2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,1.108125,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-P1,0.75,11.61,800.5,3360,34,0.0,0,Major Design Shift,57.0,0.750437269,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-P2,0.8,15.26,1132.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-F3,0.8,11.61,972.0,5670,38,0.0,0,No Style Change,31.5,0.800246753,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.796208333,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-S2,0.7,3.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.884,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-P1,0.8,19.31,800.5,4800,50,0.0,0,No Style Change,55.0,0.800250962,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-S3,0.8,19.87,963.0,9900,50,0.0,0,No Style Change,55.0,0.800273829,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-S2,0.8,22.52,1252.5,6900,113,0.0,0,No Style Change,57.5,1.000671304,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-S2,0.8,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.782447917,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-P1,0.8,2.9,1039.0,2400,0,0.0,0,No Style Change,10.0,0.874027778,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-F3,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.628333333,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-Q2,0.75,22.52,1250.0,10080,55,0.0,0,No Style Change,56.0,0.800020563,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-S3,0.75,22.52,1252.5,10260,69,0.0,0,No Style Change,57.0,0.80035194,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-F1,0.5499999999999998,4.3,1039.0,3600,0,0.0,0,No Style Change,20.0,0.988636364,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-S3,0.8,19.87,941.0,9900,0,0.0,0,No Style Change,55.0,0.800273829,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-Q1,0.75,29.12,1252.5,6960,55,0.0,0,No Style Change,58.0,0.799963218,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-C2,0.6,29.4,800.5,0,23,5.0,30,Major Design Shift,58.0,0.600982906,1
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-S1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.99485,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-P2,0.6,15.26,1245.0,6360,23,0.0,0,No Style Change,34.0,0.60017284,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-S2,0.8,22.52,1252.5,360,70,0.0,0,No Style Change,57.0,0.900477825,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-F2,0.6,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.759270833,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.936496212,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-P2,0.75,15.26,1209.0,4200,45,0.0,0,No Style Change,35.0,0.750646667,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-F2,0.6,21.98,800.5,6960,23,0.0,0,No Style Change,58.0,0.600028736,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-S3,0.75,22.52,1252.5,6840,119,0.0,0,No Style Change,57.0,1.000230409,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-S3,0.8,30.1,964.0,5160,50,0.0,0,Minor Style Revision,58.0,0.800842424,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-Q1,0.75,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.8004,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-C1,0.75,4.6,1039.0,960,0,0.0,0,No Style Change,8.0,0.676666667,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-S1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.812625,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-C2,0.5499999999999998,4.15,1039.0,1440,0,0.0,0,No Style Change,12.0,0.755486111,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-C2,0.8,2.9,1039.0,720,0,0.0,0,No Style Change,4.0,0.329545455,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-F1,0.8,4.3,1039.0,1440,0,0.0,0,No Style Change,12.0,0.845069444,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-C1,0.7,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.892194444,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-P1,0.75,10.05,800.5,2520,34,0.0,0,No Style Change,26.0,0.7504,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-C1,0.5499999999999998,22.94,1252.5,10080,30,0.0,0,No Style Change,56.0,0.400332792,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.880530303,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-C2,0.65,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.845458333,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-S1,0.5499999999999998,26.66,1164.0,6600,23,0.0,0,Major Design Shift,55.0,0.378895152,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-C1,0.8,25.9,984.0,6720,38,0.0,0,No Style Change,56.0,0.800125,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-S3,0.65,22.52,1138.0,10170,35,0.0,0,No Style Change,56.5,0.650416734,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-Q1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.755166667,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-F3,0.8,11.61,1009.0,5640,63,0.0,0,No Style Change,32.0,0.800537143,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-S1,0.7,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.555430556,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-S1,0.8,22.52,1252.5,6900,88,0.0,0,No Style Change,57.5,0.900147246,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-C1,0.8,4.6,1039.0,8400,0,0.0,0,No Style Change,20.0,0.684888889,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.951420455,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-Q1,0.75,29.12,1082.0,6840,81,0.0,0,No Style Change,57.0,0.850610526,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-F2,0.7,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.75885,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-P1,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,10.0,0.939513889,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.884261364,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-S2,0.7,16.1,817.0,5520,30,0.0,0,Minor Style Revision,45.0,0.700516224,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-P1,0.8,4.15,1039.0,1980,0,0.0,0,No Style Change,7.0,0.934607438,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-C2,0.8,25.9,1211.0,10260,60,0.0,0,No Style Change,57.0,0.850252525,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-P1,0.8,4.15,1039.0,900,0,0.0,0,No Style Change,5.0,0.515606061,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-S3,0.8,30.1,1252.5,3360,50,0.0,0,Minor Style Revision,57.0,0.800511068,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-F1,0.75,22.52,800.5,10080,81,0.0,0,No Style Change,56.0,0.849983766,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-P2,0.8,11.61,1120.0,5670,50,0.0,0,No Style Change,31.5,0.800246753,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-P2,0.8,15.26,1062.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-S1,0.8,26.16,1092.0,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-S3,0.8,4.6,1039.0,1440,0,0.0,0,No Style Change,12.0,0.894444444,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-S1,0.75,28.08,800.5,6900,45,0.0,0,No Style Change,57.5,0.750427826,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-P2,0.7,4.08,1039.0,1620,0,0.0,0,No Style Change,9.0,0.769292929,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-P2,0.8,15.26,1103.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-Q1,0.5499999999999998,29.12,970.0,10440,30,0.0,0,No Style Change,58.0,0.500547544,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-S3,0.8,22.52,1063.0,6840,100,0.0,0,No Style Change,57.0,0.950185965,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-F2,0.5499999999999998,4.15,1039.0,1440,0,0.0,0,No Style Change,12.0,0.926388889,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-S2,0.65,16.1,800.5,4200,0,0.0,0,Minor Style Revision,45.0,0.65024031,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.681060606,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-F1,0.8,22.52,1252.5,6900,88,0.0,0,No Style Change,57.5,0.9008,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-S2,0.7,3.9,1039.0,0,1200,0.0,0,No Style Change,10.0,0.6825,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-F3,0.6,18.79,800.5,3960,23,0.0,0,No Style Change,33.0,0.600710606,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-C2,0.8,25.9,1209.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-S1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.880754167,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-S1,0.8,22.52,1252.5,0,88,0.0,0,No Style Change,57.0,0.90047076,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-S1,0.8,22.52,1252.5,6900,113,0.0,0,No Style Change,57.5,1.000018551,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-C1,0.65,30.48,935.0,6840,26,0.0,0,Minor Style Revision,57.0,0.650596491,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-S3,0.75,28.08,800.5,6900,45,0.0,0,No Style Change,57.5,0.753683478,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-Q1,0.75,29.12,1252.5,6960,45,0.0,0,No Style Change,58.0,0.750593103,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-Q2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.64025,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-C2,0.8,25.9,800.5,7470,38,0.0,0,No Style Change,56.5,0.800436542,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-P1,0.7,14.89,1252.5,10260,50,0.0,0,No Style Change,57.0,0.700170388,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-F1,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.796755556,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-F1,0.75,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.734645833,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-S2,0.8,3.94,1039.0,1260,0,0.0,0,No Style Change,8.0,0.247316017,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-C2,0.7,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.930416667,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-F2,0.75,4.15,1039.0,240,0,0.0,0,No Style Change,2.0,0.760833333,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-F2,0.6,30.1,800.5,6960,0,0.0,0,No Style Change,58.0,0.415172414,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-P2,0.8,5.13,1039.0,1200,0,0.0,0,No Style Change,10.0,0.9918,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-Q1,0.75,3.94,1039.0,240,0,0.0,0,No Style Change,2.0,0.971866667,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-S3,0.5499999999999998,5.13,1039.0,1800,0,0.0,0,No Style Change,15.0,0.7866,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-S2,0.8,22.52,800.5,3660,63,0.0,0,No Style Change,57.0,0.80037492,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-S2,0.75,3.9,1039.0,1920,0,0.0,0,No Style Change,8.0,0.819270833,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-S3,0.8,4.6,1039.0,0,1440,0.0,0,No Style Change,12.0,0.795416667,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-F2,0.7,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.959191919,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-F3,0.6,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.971866667,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-F2,0.65,27.48,800.5,6720,34,0.0,0,No Style Change,56.0,0.700903571,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-P2,0.8,11.61,1063.0,5670,50,0.0,0,No Style Change,31.5,0.800246753,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-F2,0.7,27.48,800.5,6840,30,0.0,0,No Style Change,57.0,0.700659649,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.648106061,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-S3,0.75,19.87,944.0,6600,45,0.0,0,No Style Change,55.0,0.75024303,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-S1,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,8.0,0.985,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-P2,0.8,15.26,1029.0,2040,50,0.0,0,No Style Change,35.0,0.800259023,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-F2,0.75,30.1,855.0,7020,45,0.0,0,No Style Change,58.0,0.750356125,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.845458333,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-C2,0.8,25.9,1026.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-P1,0.65,11.41,800.5,2640,23,0.0,0,Major Design Shift,53.0,0.650223718,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-F2,0.7,20.4,1252.5,10440,50,0.0,0,No Style Change,58.0,0.700250784,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-Q1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.960433333,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-S1,0.75,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.853666667,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-S1,0.6,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.448722222,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-C2,0.65,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.877552083,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-F1,0.65,30.1,800.5,6780,44,0.0,0,Minor Style Revision,56.5,0.568259587,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-F2,0.7,20.4,1252.5,10260,50,0.0,0,No Style Change,57.0,0.700063796,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-P2,0.6,15.26,1252.5,6960,23,0.0,0,No Style Change,34.0,0.600436426,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-C2,0.8,26.16,1108.0,7080,98,0.0,0,No Style Change,59.0,0.940725424,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-F2,0.7,4.15,1039.0,2400,0,0.0,0,No Style Change,8.0,0.758173077,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-C1,0.65,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.625625,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-F2,0.5499999999999998,20.79,1252.5,6960,30,0.0,0,No Style Change,58.0,0.500035345,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-Q2,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.39875,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-Q1,0.7,18.79,1068.0,3000,30,0.0,0,Minor Style Revision,52.0,0.700256795,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-Q1,0.8,26.16,1095.0,10620,88,0.0,0,No Style Change,59.0,0.900215716,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-F2,0.75,20.4,1118.0,10320,56,0.0,0,No Style Change,58.0,0.750031447,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-F2,0.7,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.330113636,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-S2,0.8,3.94,1039.0,3000,0,0.0,0,No Style Change,25.0,1.050666667,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-P1,0.65,3.94,1039.0,600,0,0.0,0,No Style Change,5.0,0.971866667,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-Q2,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.809640152,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-P2,0.8,15.26,1069.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-P2,0.8,11.61,896.0,5670,50,0.0,0,No Style Change,31.5,0.800246753,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-F3,0.8,2.9,1039.0,4320,0,0.0,0,No Style Change,18.0,0.785864198,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-S1,0.6,26.66,1252.5,6840,38,0.0,0,No Style Change,57.0,0.700019883,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-F2,0.7,20.79,965.0,7320,0,0.0,0,No Style Change,58.0,0.700095563,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-C2,0.8,25.9,1047.0,6780,38,0.0,0,No Style Change,56.5,0.800684366,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-F1,0.8,28.08,942.0,10530,75,0.0,0,No Style Change,58.5,0.850181818,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-P1,0.65,4.15,1039.0,2160,0,0.0,0,No Style Change,12.0,0.838383838,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-F3,0.75,18.79,800.5,3960,34,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-F1,0.7,22.52,930.0,10260,63,0.0,0,No Style Change,57.0,0.750068049,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-C2,0.75,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.773333333,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-F1,0.8,4.3,1039.0,1200,0,0.0,0,No Style Change,10.0,0.989,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-S3,0.8,4.6,1039.0,6300,0,0.0,0,No Style Change,15.0,0.921703704,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-P2,0.8,15.26,1065.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-C1,0.6,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.406354167,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-F3,0.8,11.41,1047.0,5580,63,0.0,0,No Style Change,31.0,0.800261486,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-F2,0.5499999999999998,27.48,800.5,6840,38,0.0,0,Minor Style Revision,57.0,0.449964912,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-S3,0.75,19.87,1075.0,7080,45,0.0,0,No Style Change,56.0,0.750098351,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-P1,0.8,11.61,1005.0,7080,50,0.0,0,No Style Change,29.5,0.800237288,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-S3,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.4925,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.955151515,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.3715625,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-F2,0.5499999999999998,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.337973485,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-F1,0.7,30.1,855.0,7020,40,0.0,0,Minor Style Revision,58.0,0.700618234,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.873068182,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-S3,0.8,22.52,1136.0,6960,113,0.0,0,No Style Change,58.0,1.000457471,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-Q1,0.7,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.726933333,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-S3,0.8,4.6,1039.0,1200,0,0.0,0,No Style Change,10.0,0.939166667,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-C2,0.65,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.553333333,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-P2,0.8,11.61,1037.0,7200,50,0.0,0,No Style Change,32.0,0.800246011,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-C1,0.6,30.48,1017.0,6840,25,0.0,0,Minor Style Revision,57.0,0.630402924,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-Q1,0.75,3.94,1039.0,1320,0,0.0,0,No Style Change,11.0,0.919954545,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-P1,0.7,27.13,800.5,9540,37,0.0,0,No Style Change,53.0,0.582301029,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-F1,0.5499999999999998,22.4,800.5,7350,0,0.0,0,No Style Change,51.5,0.35063299,0
+2015-02-25,Q4,Finishing & Quality,Wednesday,Line-F3,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.410833333,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-C1,0.8,25.9,1050.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-S2,0.5499999999999998,3.9,1039.0,6300,0,0.0,0,No Style Change,15.0,0.567377778,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-S3,0.8,4.6,1039.0,10080,0,0.0,0,No Style Change,24.0,0.86037037,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-P1,0.8,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.668087121,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.931645833,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-C2,0.8,25.9,1135.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-C2,0.65,29.4,962.0,4560,0,4.5,30,Major Design Shift,57.0,0.251399254,1
+2015-02-02,Q1,Stitching Unit,Monday,Line-P2,0.8,15.26,1252.5,3600,63,0.0,0,No Style Change,35.0,0.800401961,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-F1,0.75,26.82,1082.0,6840,65,0.0,0,No Style Change,57.0,0.850084211,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-Q1,0.75,2.9,1039.0,0,3600,0.0,0,No Style Change,15.0,0.841,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-F2,0.6,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.909391667,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-S1,0.75,22.94,1252.5,6960,81,0.0,0,No Style Change,58.0,0.850362069,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-S2,0.75,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.788,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-S1,0.8,28.08,800.5,6300,50,0.0,0,No Style Change,56.5,0.800725314,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-Q2,0.8,22.52,1252.5,6720,88,0.0,0,No Style Change,56.0,0.9008,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-Q2,0.8,22.52,1127.0,120,88,0.0,0,No Style Change,56.0,0.9008,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-P1,0.8,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.927291667,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-C2,0.75,29.4,800.5,6240,56,0.0,0,No Style Change,57.0,0.75075,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-C2,0.8,2.9,1039.0,2400,0,0.0,0,No Style Change,8.0,0.594871795,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-S3,0.7,30.1,1057.0,0,40,0.0,0,Minor Style Revision,58.0,0.700603448,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-P2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.885925926,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-C2,0.6,15.09,1252.5,360,23,0.0,0,No Style Change,52.0,0.600143365,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-S1,0.8,26.16,1160.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-F1,0.75,30.1,800.5,7140,0,0.0,0,Minor Style Revision,59.0,0.750392157,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-Q2,0.7,21.82,1252.5,6120,40,0.0,0,Minor Style Revision,51.0,0.700236601,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-F3,0.8,11.61,1072.0,5760,50,0.0,0,No Style Change,32.0,0.800386364,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-C2,0.8,2.9,1039.0,1620,0,0.0,0,No Style Change,9.0,0.910521886,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.664875,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-C1,0.8,25.9,1012.0,10170,45,0.0,0,No Style Change,56.5,0.850136766,0
+2015-01-01,Q1,Finishing & Quality,Thursday,Line-P1,0.7,4.15,1039.0,1440,0,0.0,0,No Style Change,12.0,0.436326389,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-F1,0.75,3.94,1039.0,0,960,0.0,0,No Style Change,8.0,0.7953875,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-F3,0.75,18.79,800.5,3360,0,0.0,0,No Style Change,33.0,0.750621354,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-C1,0.7,24.26,1252.5,6720,0,0.0,0,No Style Change,56.0,0.541517857,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-S1,0.8,3.94,1039.0,1920,0,0.0,0,No Style Change,8.0,0.961059028,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-S3,0.5499999999999998,22.52,1102.0,10170,30,0.0,0,No Style Change,56.5,0.660683293,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-F3,0.6,23.41,1252.5,2520,23,0.0,0,Minor Style Revision,38.0,0.601037091,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-F2,0.65,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.98719697,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-C1,0.7,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.671875,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-S1,0.65,3.94,1039.0,2400,0,0.0,0,No Style Change,8.0,0.505128205,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-Q2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.385791667,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-S3,0.7,30.1,1252.5,6960,50,0.0,0,Minor Style Revision,58.0,0.700603448,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-F1,0.7,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.555430556,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-F2,0.7,4.15,1039.0,240,0,0.0,0,No Style Change,2.0,0.87,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-Q1,0.75,18.79,800.5,5040,45,0.0,0,No Style Change,52.0,0.750347333,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-S2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.912766667,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-C2,0.7,29.4,1146.0,6840,40,0.0,0,Major Design Shift,57.0,0.700614035,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-S2,0.7,30.33,800.5,2160,30,0.0,0,Minor Style Revision,58.0,0.700623,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-S2,0.75,22.52,1252.5,6840,119,0.0,0,No Style Change,57.0,1.000230409,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-F2,0.7,4.15,1039.0,2700,0,0.0,0,No Style Change,15.0,0.966666667,0
+2015-02-09,Q2,Finishing & Quality,Monday,Line-S1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.962016667,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-F2,0.8,30.1,800.5,7140,50,0.0,0,No Style Change,60.0,0.800137255,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-Q2,0.7,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.410833333,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-F3,0.8,11.61,955.0,6360,63,0.0,0,No Style Change,32.0,0.800191989,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-S2,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.578314394,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-S2,0.8,28.08,800.5,6900,50,0.0,0,No Style Change,57.5,0.800076522,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-P1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.755208333,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-C2,0.7,5.13,1039.0,1920,0,0.0,0,No Style Change,8.0,0.672135417,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-S3,0.8,22.52,1252.5,6840,100,0.0,0,No Style Change,57.0,0.950185965,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-Q2,0.7,21.82,1252.5,5760,30,0.0,0,No Style Change,53.0,0.700058333,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-F3,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.531666667,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-S2,0.8,28.08,800.5,10350,63,0.0,0,No Style Change,57.5,0.800594466,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-S2,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.970075758,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-Q2,0.8,22.52,1108.0,6720,113,0.0,0,No Style Change,56.0,0.999995238,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-C2,0.7,4.15,1039.0,3000,0,0.0,0,No Style Change,25.0,0.915766667,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-Q1,0.8,26.16,1252.5,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-C2,0.65,30.48,953.0,6720,26,0.0,0,Minor Style Revision,56.0,0.650421429,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-S2,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-S2,0.6,15.28,800.5,1320,0,0.0,0,Minor Style Revision,46.0,0.600099145,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-P1,0.8,11.61,800.5,0,50,4.0,20,No Style Change,57.0,0.682433036,1
+2015-02-22,Q4,Stitching Unit,Sunday,Line-S2,0.7,30.33,800.5,6840,0,0.0,0,Minor Style Revision,57.0,0.700605263,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-Q2,0.75,19.31,800.5,6480,45,0.0,0,No Style Change,54.0,0.712205247,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-S2,0.75,22.94,1252.5,10260,94,0.0,0,No Style Change,57.0,0.90064806,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-P2,0.8,4.6,1039.0,3780,0,0.0,0,No Style Change,9.0,0.607654321,0
+2015-02-01,Q1, Finishing & Quality ,Sunday,Line-P2,0.75,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.702666667,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-S1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.915229167,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.628882576,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-F2,0.7,4.15,1039.0,3060,0,0.0,0,No Style Change,17.0,0.973796791,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-F2,0.5499999999999998,30.1,839.0,6960,0,0.0,0,No Style Change,58.0,0.500801724,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-Q1,0.8,26.16,1252.5,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-C1,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.258,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-F3,0.8,11.61,1181.0,5760,63,0.0,0,No Style Change,32.0,0.800386364,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-C2,0.5499999999999998,30.1,901.0,6960,0,0.0,0,Minor Style Revision,58.0,0.350301724,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-S1,0.8,22.94,1252.5,3060,113,0.0,0,No Style Change,58.5,1.000402055,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-Q1,0.75,18.79,1239.0,5640,45,0.0,0,No Style Change,52.0,0.750371895,0
+2015-02-09,Q2,Finishing & Quality,Monday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,1.057962963,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-C1,0.5499999999999998,30.1,842.0,6960,0,0.0,0,Minor Style Revision,58.0,0.350301724,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-F2,0.7,27.48,800.5,6960,40,0.0,0,No Style Change,58.0,0.700424138,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-P2,0.8,4.6,1039.0,2160,0,0.0,0,No Style Change,9.0,0.922839506,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-P2,0.8,4.6,1039.0,3780,0,0.0,0,No Style Change,9.0,0.590617284,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-C1,0.7,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.356458333,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-S2,0.8,51.02,1086.0,4260,27,0.0,0,No Style Change,57.0,0.311207464,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-P1,0.7,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.409545455,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-F1,0.75,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.593055556,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-Q1,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.4078125,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-P2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.793844697,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-Q1,0.8,22.52,1086.0,6960,50,0.0,0,No Style Change,58.0,0.799963218,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-Q1,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.83375,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-S1,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-Q1,0.8,26.16,1156.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.820833333,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-Q2,0.75,28.08,1209.0,10530,45,0.0,0,No Style Change,58.5,0.750545455,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-S3,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.971866667,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-S3,0.75,3.94,1039.0,1560,0,0.0,0,No Style Change,8.0,0.945277778,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-Q1,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,8.0,0.827147436,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.838666667,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-Q2,0.7,2.9,1039.0,0,960,0.0,0,No Style Change,8.0,0.477291667,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-Q1,0.75,2.9,1039.0,1080,0,0.0,0,No Style Change,9.0,0.929074074,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-C1,0.7,24.26,1252.5,6960,0,0.0,0,No Style Change,58.0,0.700612069,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-C1,0.8,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.350416667,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-Q1,0.8,26.16,800.5,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-F2,0.7,20.4,1217.0,10440,50,0.0,0,No Style Change,58.0,0.700250784,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.585,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,2.0,0.951420455,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-F2,0.65,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.809564394,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-Q1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.3715625,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-F1,0.8,28.08,925.0,10350,50,0.0,0,No Style Change,57.5,0.800594466,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-S3,0.5499999999999998,5.13,1039.0,1800,0,0.0,0,No Style Change,15.0,0.8721,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-C1,0.8,25.9,1252.5,6780,50,0.0,0,No Style Change,56.5,0.800684366,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-F1,0.8,30.1,891.0,7140,38,0.0,0,Minor Style Revision,59.0,0.800137255,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-P2,0.8,11.61,1039.0,5670,63,0.0,0,No Style Change,31.5,0.800246753,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-S3,0.8,22.52,813.0,0,88,0.0,0,No Style Change,57.0,0.90047076,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-S3,0.75,4.15,1039.0,1800,0,0.0,0,No Style Change,10.0,0.899166667,0
+2015-01-25,Q4,Stitching Unit,Sunday,Line-P1,0.75,42.97,800.5,10260,40,0.0,0,No Style Change,57.0,0.59114168,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-Q1,0.7,18.79,1252.5,6120,30,0.0,0,Minor Style Revision,51.0,0.638614379,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-C1,0.8,25.9,970.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-01-05,Q1,Stitching Unit,Monday,Line-F1,0.8,28.08,800.5,6900,50,0.0,0,No Style Change,57.5,0.800076522,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-P2,0.8,4.6,1039.0,3780,0,0.0,0,No Style Change,9.0,0.636049383,0
+2015-02-03,Q1, Finishing & Quality ,Tuesday,Line-S2,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,20.0,1.001416667,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-S2,0.75,22.94,1252.5,10260,55,0.0,0,No Style Change,57.0,0.800034024,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-P1,0.8,10.05,800.5,3240,34,0.0,0,No Style Change,54.0,0.750648148,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-P1,0.6,12.52,831.0,9540,30,0.0,0,No Style Change,53.0,0.600229846,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.689299242,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-F1,0.5499999999999998,22.4,800.5,10170,23,0.0,0,No Style Change,56.5,0.500380799,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-P2,0.75,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.755555556,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-F1,0.75,26.82,1104.0,5880,65,0.0,0,No Style Change,59.0,0.850084211,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-C1,0.7,24.26,1252.5,6720,0,0.0,0,No Style Change,56.0,0.411553571,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-S3,0.8,19.87,924.0,9900,50,0.0,0,No Style Change,55.0,0.800273829,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-S2,0.8,22.52,1186.0,6900,113,0.0,0,No Style Change,58.0,1.000018551,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-F1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.812625,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-C1,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.929277778,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-P2,0.75,15.26,1252.5,4200,45,0.0,0,No Style Change,35.0,0.750646667,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-C1,0.5499999999999998,24.26,1252.5,6960,0,0.0,0,No Style Change,58.0,0.522844828,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-S3,0.6,30.1,1252.5,6960,30,0.0,0,Minor Style Revision,58.0,0.475718391,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-C1,0.8,30.1,934.0,6960,0,3.5,15,No Style Change,58.0,0.579511494,1
+2015-02-19,Q3,Stitching Unit,Thursday,Line-F1,0.8,30.1,859.0,7020,63,0.0,0,Minor Style Revision,58.5,0.800094017,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.947689394,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-F3,0.8,11.41,986.0,5490,50,0.0,0,No Style Change,30.5,0.800343766,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-F3,0.8,30.4,800.5,3840,34,0.0,0,No Style Change,32.0,0.622828125,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-F1,0.7,30.1,800.5,7080,0,0.0,0,Minor Style Revision,59.0,0.637711864,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-F1,0.6,26.66,800.5,6840,23,0.0,0,No Style Change,57.0,0.600239766,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-C2,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.682708333,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-S1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.929183333,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-F2,0.8,4.6,1039.0,7560,0,0.0,0,No Style Change,18.0,0.921604938,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-C1,0.7,4.15,1039.0,1440,0,0.0,0,No Style Change,12.0,0.928680556,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-P2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.92,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-C2,0.7,29.4,1079.0,4560,40,0.0,0,Major Design Shift,58.0,0.700518519,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.880530303,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-C2,0.7,24.26,1167.0,6840,0,0.0,0,No Style Change,57.0,0.496549708,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-C1,0.5499999999999998,22.52,1252.5,10080,23,0.0,0,No Style Change,56.0,0.500241342,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-F3,0.8,11.61,1084.0,4950,38,0.0,0,No Style Change,31.5,0.80003139,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-S2,0.8,22.52,1233.0,6900,113,0.0,0,No Style Change,57.5,1.000018551,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-C1,0.8,25.9,1227.0,7020,60,0.0,0,No Style Change,56.5,0.850436438,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-P2,0.5499999999999998,15.26,1252.5,3720,23,0.0,0,No Style Change,34.0,0.500290419,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-P1,0.6,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.715333333,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-S3,0.8,4.15,1039.0,1800,0,0.0,0,No Style Change,10.0,0.905454545,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-F2,0.65,21.98,808.0,10440,35,0.0,0,No Style Change,58.0,0.649983281,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-F3,0.8,25.9,1170.0,1920,50,0.0,0,No Style Change,56.0,0.800381944,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-S1,0.8,22.52,1252.5,6900,113,0.0,0,No Style Change,57.5,1.000018551,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-S3,0.8,4.6,1039.0,10500,0,0.0,0,No Style Change,25.0,0.936355556,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-S2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.792104167,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-S1,0.7,26.82,1252.5,8160,70,0.0,0,No Style Change,58.0,0.850045,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-F1,0.8,22.52,1016.0,10170,60,0.0,0,No Style Change,56.5,0.850312684,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-P1,0.8,11.61,954.0,0,50,0.0,0,Major Design Shift,58.0,0.800779018,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-S2,0.8,22.52,800.5,6900,0,0.0,0,No Style Change,57.5,0.432122899,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-Q2,0.7,19.68,1119.0,5640,0,8.0,35,Minor Style Revision,47.0,0.303574468,1
+2015-02-09,Q2,Finishing & Quality,Monday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.272,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-C2,0.8,25.9,1252.5,10170,38,0.0,0,No Style Change,56.5,0.800128721,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-F1,0.7,22.52,983.0,10260,63,0.0,0,No Style Change,57.0,0.750068049,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-P2,0.8,5.13,1039.0,2160,0,0.0,0,No Style Change,9.0,0.609583333,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.639867424,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-S3,0.75,4.15,1039.0,2760,0,0.0,0,No Style Change,12.0,0.930340376,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-P1,0.8,31.83,800.5,9900,40,0.0,0,No Style Change,55.0,0.412119835,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-C2,0.8,4.6,1039.0,2640,0,0.0,0,No Style Change,22.0,0.980984848,0
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-C2,0.65,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.561979167,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-S2,0.8,22.52,1252.5,0,88,0.0,0,No Style Change,57.0,0.899984058,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-P2,0.8,15.26,1026.0,2880,63,0.0,0,No Style Change,34.0,0.800355208,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-S2,0.8,28.08,800.5,6660,50,0.0,0,No Style Change,55.5,0.800237838,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-C1,0.6,30.1,829.0,3360,23,0.0,0,Minor Style Revision,58.0,0.600070513,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-P1,0.7,11.41,800.5,2160,30,0.0,0,Major Design Shift,54.0,0.565972222,0
+2015-01-21,Q3, Finishing & Quality ,Wednesday,Line-S2,0.7,3.94,1039.0,5100,0,0.0,0,No Style Change,17.0,0.912202112,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-C2,0.65,3.9,1039.0,0,960,0.0,0,No Style Change,8.0,0.2640625,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.735984848,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-Q1,0.7,29.12,1252.5,6960,50,0.0,0,No Style Change,58.0,0.700386207,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-F1,0.8,4.3,1039.0,960,0,0.0,0,No Style Change,8.0,0.447916667,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-S3,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.895454545,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-F3,0.75,18.79,1100.0,3960,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-F3,0.75,18.79,913.0,3360,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-F2,0.65,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.958901515,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-F1,0.8,4.15,1039.0,6600,0,0.0,0,No Style Change,20.0,0.988024691,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-P1,0.75,10.05,800.5,0,45,0.0,0,No Style Change,54.0,0.750648148,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-Q2,0.7,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.7018125,0
+2015-02-18,Q3,Finishing & Quality,Wednesday,Line-F3,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,12.0,0.936861111,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-P1,0.6,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.864583333,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-F1,0.8,30.1,864.0,480,50,0.0,0,Minor Style Revision,58.0,0.800980392,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-F3,0.75,18.79,800.5,3960,0,0.0,0,No Style Change,33.0,0.332146465,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-P1,0.75,42.97,1252.5,10260,56,0.0,0,No Style Change,57.0,0.750041201,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-Q1,0.65,18.79,1252.5,5520,0,0.0,0,Minor Style Revision,51.0,0.650134,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-F2,0.7,50.89,800.5,5880,56,0.0,0,No Style Change,59.0,0.656763743,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-C2,0.7,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.725625,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-C2,0.8,29.4,800.5,6840,0,0.0,0,No Style Change,57.0,0.433263158,0
+2015-02-23,Q4,Finishing & Quality,Monday,Line-S3,0.8,5.13,1039.0,2160,0,0.0,0,No Style Change,18.0,0.87115,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-C2,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.628333333,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-S1,0.8,26.16,1252.5,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-C2,0.8,25.9,1218.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-F1,0.75,30.1,849.0,7020,45,0.0,0,Minor Style Revision,58.0,0.750356125,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-F2,0.7,27.48,800.5,6960,40,0.0,0,No Style Change,58.0,0.700424138,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-C2,0.7,30.48,923.0,6840,30,0.0,0,Minor Style Revision,57.0,0.700505263,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-Q1,0.5499999999999998,18.79,1252.5,5280,0,0.0,0,Minor Style Revision,54.0,0.283054487,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-S3,0.8,4.6,1039.0,1920,0,0.0,0,No Style Change,8.0,0.786631944,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-P2,0.75,15.26,1252.5,3600,45,0.0,0,No Style Change,35.0,0.750283333,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-C2,0.8,25.9,1158.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-S3,0.8,22.52,1060.0,6840,100,0.0,0,No Style Change,57.0,0.950185965,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-S2,0.8,3.94,1039.0,2160,0,0.0,0,No Style Change,18.0,0.875555556,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-S3,0.7,30.1,800.5,6960,50,0.0,0,Minor Style Revision,58.0,0.700603448,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-S1,0.8,48.68,800.5,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-C1,0.7,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.8471,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-F1,0.75,26.82,1054.0,7080,45,0.0,0,No Style Change,59.0,0.750050847,0
+2015-02-09,Q2,Finishing & Quality,Monday,Line-C2,0.5499999999999998,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.707111111,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-P1,0.6,2.9,1039.0,2880,0,0.0,0,No Style Change,12.0,0.805555556,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-F1,0.8,22.52,1252.5,5940,50,0.0,0,No Style Change,56.5,0.800393224,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-Q1,0.75,18.79,1193.0,6240,45,0.0,0,No Style Change,52.0,0.750395513,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-P2,0.8,15.26,894.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.773333333,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-F1,0.65,23.69,861.0,7200,0,0.0,0,No Style Change,60.0,0.52118,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-F1,0.8,3.94,1039.0,12600,0,0.0,0,No Style Change,20.0,0.919905405,0
+2015-01-19,Q3,Stitching Unit,Monday,Line-C2,0.8,25.9,1252.5,3630,50,0.0,0,No Style Change,56.5,0.800162602,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-P1,0.5499999999999998,14.61,838.0,7200,23,0.0,0,No Style Change,55.0,0.35003125,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-F2,0.8,30.1,800.5,1200,49,0.0,0,Minor Style Revision,59.0,0.598792339,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-F1,0.75,3.94,1039.0,1920,0,0.0,0,No Style Change,8.0,0.813309028,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.590435606,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-F1,0.8,28.08,990.0,10350,50,0.0,0,No Style Change,57.5,0.800594466,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-C2,0.65,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.560625,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-C1,0.8,30.1,800.5,7080,50,0.0,0,No Style Change,59.0,0.800115819,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-P2,0.8,15.26,1094.0,4080,38,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-F3,0.8,11.41,887.0,5490,50,0.0,0,No Style Change,30.5,0.800343766,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-F3,0.8,2.9,1039.0,1800,0,0.0,0,No Style Change,10.0,0.804848485,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-C1,0.6,23.54,958.0,6600,0,0.0,0,No Style Change,55.0,0.285333333,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-S1,0.65,3.94,1039.0,3360,0,0.0,0,No Style Change,8.0,0.537919444,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-F1,0.7,26.66,950.0,6960,50,0.0,0,No Style Change,58.0,0.750770115,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.5565625,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-P1,0.5499999999999998,11.41,1039.0,2280,0,0.0,0,Major Design Shift,55.0,0.50012336,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-S3,0.75,29.4,1244.0,6840,45,0.0,0,Major Design Shift,57.0,0.750473684,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-C1,0.65,23.54,830.0,6600,0,0.0,0,No Style Change,55.0,0.48792,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-Q2,0.75,3.94,1039.0,8400,0,0.0,0,No Style Change,14.0,0.940701058,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-Q1,0.8,26.16,1252.5,7080,60,0.0,0,No Style Change,59.0,0.850569492,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-P1,0.5499999999999998,48.18,1252.5,6480,23,0.0,0,No Style Change,54.0,0.37046657,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.817102273,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-Q2,0.7,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.463194444,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-F1,0.8,3.94,1039.0,3600,0,0.0,0,No Style Change,20.0,0.925643939,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-C1,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.540729167,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-S2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.773333333,0
+2015-01-04,Q1,Stitching Unit,Sunday,Line-F1,0.8,28.08,878.0,4260,50,0.0,0,No Style Change,55.5,0.800598058,0
+2015-01-11,Q2,Stitching Unit,Sunday,Line-F1,0.8,50.48,800.5,10440,0,0.0,0,No Style Change,58.0,0.473134796,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-S3,0.8,22.52,1124.0,6840,100,0.0,0,No Style Change,57.0,0.950185965,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-F3,0.5499999999999998,18.79,800.5,3960,23,0.0,0,No Style Change,33.0,0.500117677,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-S1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.664875,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-C2,0.7,29.4,847.0,6960,30,0.0,0,Minor Style Revision,58.0,0.700362069,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-F2,0.8,30.1,800.5,0,0,0.0,0,No Style Change,59.0,0.800980392,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-F2,0.5499999999999998,27.48,800.5,6840,30,0.0,0,Minor Style Revision,57.0,0.550403509,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-S1,0.75,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.9456,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-C2,0.6,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.4509375,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-F3,0.8,11.41,1067.0,5490,63,0.0,0,No Style Change,30.5,0.800343766,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-S3,0.8,4.6,1039.0,6300,0,0.0,0,No Style Change,15.0,0.902962963,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-F2,0.75,4.15,1039.0,1200,0,0.0,0,No Style Change,10.0,0.629416667,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-S2,0.7,30.33,800.5,3960,30,0.0,0,Minor Style Revision,58.0,0.700069811,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-F2,0.65,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.821354167,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-C2,0.8,26.16,1252.5,7080,50,0.0,0,No Style Change,59.0,0.800318644,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-Q1,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.82680303,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-F2,0.6,26.82,919.0,7080,23,0.0,0,Minor Style Revision,59.0,0.600040678,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-S3,0.75,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,1.059621212,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-S2,0.7,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.741,0
+2015-01-21,Q3,Stitching Unit,Wednesday,Line-S1,0.65,22.94,1252.5,10260,34,0.0,0,No Style Change,57.0,0.700029771,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-S2,0.8,28.08,800.5,10530,50,0.0,0,No Style Change,58.5,0.8,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-Q1,0.7,28.08,1072.0,6900,40,0.0,0,No Style Change,57.5,0.699965217,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-F3,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.610208333,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-S1,0.8,22.52,1252.5,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-S1,0.75,3.94,1039.0,1920,0,0.0,0,No Style Change,8.0,0.812625,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-S2,0.7,22.94,1252.5,10620,60,0.0,0,No Style Change,57.0,0.800302791,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-S1,0.75,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.77815,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-F2,0.8,30.1,800.5,5700,0,4.5,25,No Style Change,60.0,0.307501459,1
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-P2,0.8,15.26,800.5,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-09,Q2,Finishing & Quality,Monday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.697708333,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-Q2,0.75,19.31,800.5,6480,56,0.0,0,No Style Change,54.0,0.787299691,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-S2,0.7,3.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.92885,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-F3,0.75,20.2,800.5,3120,45,0.0,0,No Style Change,33.0,0.750212553,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-F1,0.5499999999999998,4.3,1039.0,3240,0,0.0,0,No Style Change,18.0,0.942213805,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-C2,0.8,4.6,1039.0,3600,0,0.0,0,No Style Change,15.0,0.590740741,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-F1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.890604167,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-P1,0.8,11.61,816.0,2820,50,0.0,0,Major Design Shift,57.0,0.800516667,0
+2015-01-29,Q5, Finishing & Quality ,Thursday,Line-F3,0.5499999999999998,2.9,1039.0,1200,0,0.0,0,No Style Change,10.0,0.899,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-S2,0.7,30.33,800.5,1680,30,0.0,0,Minor Style Revision,59.0,0.700623,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-F3,0.75,18.79,1012.0,3960,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-S3,0.8,30.1,800.5,6960,63,0.0,0,Minor Style Revision,58.0,0.800071839,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-Q1,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.453125,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-Q2,0.6,18.22,1131.0,5280,0,0.0,0,Minor Style Revision,44.0,0.35542803,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-C2,0.65,24.26,1252.5,6600,0,0.0,0,No Style Change,55.0,0.260978788,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-P2,0.8,11.61,893.0,4710,50,0.0,0,No Style Change,31.5,0.800346445,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-P2,0.8,15.26,970.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-F3,0.6,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.271875,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-S1,0.8,26.16,1252.5,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-02-17,Q3,Stitching Unit,Tuesday,Line-S2,0.5499999999999998,30.33,838.0,6720,0,0.0,0,Minor Style Revision,56.0,0.361071429,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-C2,0.5499999999999998,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.703770833,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-Q1,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.447083333,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-Q1,0.7,18.79,1252.5,3240,30,0.0,0,Minor Style Revision,57.0,0.627011183,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-C2,0.7,29.4,1094.0,6840,40,0.0,0,Major Design Shift,57.0,0.700614035,0
+2015-02-24,Q4,Finishing & Quality,Tuesday,Line-F3,0.75,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.726933333,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-Q1,0.75,2.9,1039.0,1800,0,0.0,0,No Style Change,15.0,0.505888889,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-Q1,0.8,26.16,1122.0,10620,75,0.0,0,No Style Change,59.0,0.851174114,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-Q1,0.75,18.79,841.0,6240,45,0.0,0,Minor Style Revision,52.0,0.750395513,0
+2015-03-01,Q1,Finishing & Quality,Sunday,Line-F1,0.6,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.673083333,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-Q1,0.7,29.12,1170.0,6960,53,0.0,0,No Style Change,58.0,0.850170115,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.813371212,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.805909091,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-F1,0.5499999999999998,26.66,800.5,6960,23,0.0,0,Major Design Shift,58.0,0.500258046,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-Q2,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,10.0,0.733277778,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.61625,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-F1,0.75,4.3,1039.0,2160,0,0.0,0,No Style Change,12.0,0.952020202,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-S3,0.75,3.94,1039.0,1620,0,0.0,0,No Style Change,9.0,0.961784512,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.906666667,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-S2,0.8,22.52,1252.5,6960,100,0.0,0,No Style Change,58.0,0.949981609,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-F1,0.7,26.82,1028.0,6960,60,0.0,0,No Style Change,58.0,0.799975862,0
+2015-02-24,Q4,Stitching Unit,Tuesday,Line-Q2,0.7,21.25,1252.5,6360,0,0.0,0,Minor Style Revision,53.0,0.471108491,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-C1,0.7,24.26,800.5,6960,0,0.0,0,No Style Change,58.0,0.355534483,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-C1,0.8,25.9,1066.0,10170,50,0.0,0,No Style Change,56.5,0.800128721,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-Q2,0.7,3.94,1039.0,4320,0,0.0,0,No Style Change,18.0,0.759228395,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-Q2,0.75,22.52,1252.5,10080,69,0.0,0,No Style Change,56.0,0.80062987,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-S2,0.75,16.1,971.0,5400,45,0.0,0,Minor Style Revision,45.0,0.750140741,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-S2,0.8,28.08,800.5,10530,63,0.0,0,No Style Change,58.5,0.8,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-F1,0.75,26.82,1079.0,7020,65,0.0,0,No Style Change,58.0,0.850446154,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-S1,0.8,22.52,1252.5,6780,88,0.0,0,No Style Change,56.5,0.900135693,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-S3,0.8,29.4,983.0,6840,63,0.0,0,Minor Style Revision,57.0,0.800578947,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.670075758,0
+2015-01-01,Q1,Stitching Unit,Thursday,Line-S2,0.75,19.87,800.5,6000,34,0.0,0,No Style Change,55.0,0.753097531,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-S2,0.8,28.08,800.5,10350,63,0.0,0,No Style Change,57.5,0.800594466,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-F1,0.7,23.69,800.5,13800,0,0.0,0,No Style Change,60.0,0.700134038,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-P2,0.7,15.26,1252.5,6120,40,0.0,0,No Style Change,34.0,0.70043672,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-F1,0.6,30.1,800.5,6780,30,0.0,0,Minor Style Revision,57.0,0.600224189,0
+2015-01-14,Q2,Stitching Unit,Wednesday,Line-F1,0.6,22.4,816.0,5100,23,0.0,0,No Style Change,57.0,0.600369686,0
+2015-01-18,Q3,Stitching Unit,Sunday,Line-C1,0.8,48.84,800.5,10170,50,0.0,0,No Style Change,56.5,0.800128721,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-S3,0.7,29.4,1228.0,6960,30,0.0,0,Major Design Shift,58.0,0.700362069,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-F3,0.75,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.309333333,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-C1,0.75,30.1,800.5,6960,0,3.5,20,Minor Style Revision,58.0,0.393548851,1
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-P2,0.75,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.740444444,0
+2015-02-05,Q1,Finishing & Quality,Thursday,Line-F3,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.9425,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-S1,0.75,3.94,1039.0,0,960,0.0,0,No Style Change,8.0,0.794566667,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-P1,0.8,11.41,800.5,0,50,0.0,0,No Style Change,56.0,0.800701754,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-S3,0.8,4.6,1039.0,1800,0,0.0,0,No Style Change,15.0,0.810111111,0
+2015-01-15,Q3, Finishing & Quality ,Thursday,Line-F2,0.65,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.860653409,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-F3,0.7,18.79,941.0,3360,30,0.0,0,No Style Change,33.0,0.700710417,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-F2,0.7,41.19,1052.0,10440,21,0.0,0,No Style Change,58.0,0.452012539,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-F3,0.75,18.79,1193.0,3960,45,0.0,0,No Style Change,33.0,0.75065101,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-C2,0.5499999999999998,15.09,1252.5,9360,23,0.0,0,No Style Change,52.0,0.34998951,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-F1,0.8,3.94,1039.0,6000,0,0.0,0,No Style Change,20.0,0.911589744,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-C1,0.8,30.1,800.5,4080,50,0.0,0,Minor Style Revision,59.0,0.800808642,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-C2,0.65,15.09,976.0,240,23,0.0,0,No Style Change,52.0,0.650307143,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-C2,0.75,29.4,916.0,6960,56,0.0,0,Major Design Shift,58.0,0.750206897,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-P2,0.8,15.26,1106.0,4080,63,0.0,0,No Style Change,34.0,0.800401961,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-C2,0.7,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.605208333,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-Q2,0.8,22.52,1142.0,6720,88,0.0,0,No Style Change,56.0,0.900129762,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-S1,0.75,26.82,1252.5,7080,45,0.0,0,No Style Change,59.0,0.750050847,0
+2015-03-11,Q2,Finishing & Quality,Wednesday,Line-F3,0.7,2.9,1039.0,720,0,0.0,0,No Style Change,6.0,0.394722222,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-Q2,0.8,22.52,1252.5,6720,75,0.0,0,No Style Change,56.0,0.850532143,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-S1,0.8,22.52,1252.5,6780,88,0.0,0,No Style Change,57.0,0.900135693,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-Q2,0.7,21.82,1252.5,6240,0,0.0,0,Major Design Shift,52.0,0.700058333,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-P2,0.8,15.26,1053.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-Q1,0.7,29.12,1252.5,6960,63,0.0,0,No Style Change,58.0,0.750593103,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.586041667,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-C2,0.5499999999999998,30.1,1061.0,6960,30,0.0,0,Minor Style Revision,58.0,0.393548851,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-P2,0.8,15.26,959.0,4080,50,0.0,0,No Style Change,34.0,0.800401961,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-F2,0.7,42.41,800.5,10260,0,0.0,0,No Style Change,57.0,0.233705476,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-C1,0.5499999999999998,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.560625,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-C2,0.75,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.376597222,0
+2015-01-20,Q3, Finishing & Quality ,Tuesday,Line-Q1,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.72830303,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-S1,0.7,22.94,1252.5,10260,75,0.0,0,No Style Change,57.0,0.800643806,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-P1,0.75,11.61,800.5,3360,45,0.0,0,No Style Change,57.0,0.750503571,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-S2,0.7,30.33,800.5,6960,0,0.0,0,Minor Style Revision,58.0,0.66237931,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-S2,0.7,16.1,928.0,4800,30,0.0,0,Minor Style Revision,45.0,0.700106061,0
+2015-02-08,Q2,Stitching Unit,Sunday,Line-S3,0.8,22.52,1252.5,6720,88,0.0,0,No Style Change,56.0,0.900129762,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-P2,0.8,15.26,1120.0,1440,50,0.0,0,No Style Change,34.0,0.800806306,0
+2015-01-20,Q3, Finishing & Quality ,Tuesday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.639867424,0
+2015-01-27,Q4,Stitching Unit,Tuesday,Line-F1,0.8,22.52,1106.0,6780,60,0.0,0,No Style Change,56.5,0.850312684,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.653598485,0
+2015-02-04,Q1,Finishing & Quality,Wednesday,Line-C1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.779791667,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-S3,0.75,4.15,1039.0,2160,0,0.0,0,No Style Change,12.0,0.712626263,0
+2015-02-14,Q2,Finishing & Quality,Saturday,Line-F1,0.75,4.15,1039.0,2400,0,0.0,0,No Style Change,20.0,0.902916667,0
+2015-02-28,Q4,Finishing & Quality,Saturday,Line-Q2,0.7,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.410833333,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-C1,0.7,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.283958333,0
+2015-01-17,Q3, Finishing & Quality ,Saturday,Line-S2,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.980909091,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-Q2,0.65,22.52,1163.0,9720,35,0.0,0,No Style Change,54.0,0.650198653,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-C1,0.8,30.1,834.0,1200,0,4.0,40,No Style Change,59.0,0.366053523,1
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-C1,0.65,3.94,1039.0,2160,0,0.0,0,No Style Change,12.0,0.870580808,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.681060606,0
+2015-01-12,Q2, Finishing & Quality ,Monday,Line-F3,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.817424242,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-Q1,0.7,18.79,1252.5,4560,30,0.0,0,Minor Style Revision,51.0,0.70009573,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.837594697,0
+2015-03-09,Q2,Stitching Unit,Monday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,58.0,0.800034503,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-P1,0.7,11.41,800.5,3480,30,0.0,0,Major Design Shift,58.0,0.700540441,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-S3,0.8,4.15,1039.0,1620,0,0.0,0,No Style Change,9.0,0.901262626,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.899111111,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-S1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.8865,0
+2015-01-07,Q1, Finishing & Quality ,Wednesday,Line-Q2,0.75,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.805909091,0
+2015-02-10,Q2,Finishing & Quality,Tuesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.853666667,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-Q1,0.75,18.79,1020.0,5640,45,0.0,0,Minor Style Revision,52.0,0.750371895,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,56.0,0.800701754,0
+2015-01-26,Q4, Finishing & Quality ,Monday,Line-S2,0.75,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.910378788,0
+2015-02-08,Q2,Finishing & Quality,Sunday,Line-C2,0.7,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.840888889,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-F1,0.7,26.82,1195.0,6960,60,0.0,0,No Style Change,58.0,0.800746552,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-Q2,0.7,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.235795455,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-P1,0.75,10.05,800.5,3240,45,0.0,0,No Style Change,27.0,0.750027778,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-C1,0.5499999999999998,30.1,1025.0,6960,23,0.0,0,Minor Style Revision,58.0,0.500801724,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-C2,0.75,29.4,800.5,4560,56,0.0,0,Major Design Shift,58.0,0.750425926,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-P2,0.8,15.26,1083.0,720,38,0.0,0,No Style Change,34.0,0.800612676,0
+2015-02-05,Q1,Stitching Unit,Thursday,Line-F2,0.7,30.1,800.5,6960,0,0.0,0,No Style Change,58.0,0.562212644,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-F2,0.65,26.82,1001.0,7080,26,0.0,0,Minor Style Revision,59.0,0.650044068,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-S2,0.65,3.9,1039.0,1920,0,0.0,0,No Style Change,8.0,0.528125,0
+2015-02-16,Q3,Finishing & Quality,Monday,Line-F1,0.75,4.15,1039.0,1800,0,0.0,0,No Style Change,15.0,0.722333333,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-Q1,0.8,29.12,829.0,6960,50,0.0,0,No Style Change,58.0,0.799963218,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-S3,0.8,29.4,1231.0,4680,50,0.0,0,No Style Change,57.0,0.800149813,0
+2015-02-01,Q1,Stitching Unit,Sunday,Line-P1,0.7,20.1,1192.0,6120,75,0.0,0,No Style Change,54.0,0.700508929,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-S3,0.8,22.52,1252.5,5400,50,0.0,0,No Style Change,57.0,0.800161172,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-C1,0.7,24.26,1252.5,6720,0,0.0,0,No Style Change,56.0,0.295307738,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-S1,0.75,3.94,1039.0,1800,0,0.0,0,No Style Change,15.0,0.971866667,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-Q1,0.75,18.79,1206.0,6240,34,0.0,0,No Style Change,52.0,0.750395513,0
+2015-01-31,Q5,Stitching Unit,Saturday,Line-C1,0.7,23.54,1109.0,6720,0,0.0,0,No Style Change,56.0,0.388830357,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-S3,0.5499999999999998,30.1,800.5,6960,0,0.0,0,Minor Style Revision,58.0,0.350301724,0
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-S3,0.8,4.6,1039.0,1440,0,0.0,0,No Style Change,12.0,0.951944444,0
+2015-01-28,Q4, Finishing & Quality ,Wednesday,Line-Q2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.840533333,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-P2,0.8,11.61,1101.0,5310,50,0.0,0,No Style Change,31.5,0.800140969,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-Q2,0.7,21.82,1252.5,3600,30,0.0,0,No Style Change,51.0,0.70013604,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-S2,0.8,22.52,1252.5,7020,88,0.0,0,No Style Change,58.5,0.900158405,0
+2015-02-12,Q2,Finishing & Quality,Thursday,Line-F2,0.7,4.15,1039.0,240,0,0.0,0,No Style Change,2.0,0.58,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-Q2,0.7,19.68,1252.5,5760,0,0.0,0,Minor Style Revision,48.0,0.249416667,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-C1,0.75,30.1,800.5,6960,45,0.0,0,Minor Style Revision,58.0,0.750770115,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-Q2,0.7,21.82,1252.5,5040,30,0.0,0,No Style Change,51.0,0.699984417,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-P2,0.8,11.61,800.5,4470,50,0.0,0,No Style Change,31.5,0.80007657,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-P2,0.6,4.08,1039.0,5400,0,0.0,0,No Style Change,9.0,0.327407407,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-F1,0.75,30.1,912.0,7020,0,0.0,0,Minor Style Revision,58.0,0.750356125,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-P2,0.8,5.13,1039.0,2400,0,0.0,0,No Style Change,10.0,0.78375,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-F1,0.75,22.52,800.5,10260,94,0.0,0,No Style Change,57.0,0.900321106,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-S1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,1.1204375,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-Q1,0.75,18.79,1226.0,3480,45,0.0,0,No Style Change,51.0,0.749987124,0
+2015-03-03,Q1,Stitching Unit,Tuesday,Line-S1,0.7,26.66,1252.5,6960,60,0.0,0,No Style Change,58.0,0.800566092,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-S1,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.870083333,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-P1,0.7,10.05,1042.0,6120,60,0.0,0,No Style Change,53.0,0.700278846,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-Q1,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.4078125,0
+2015-02-11,Q2,Finishing & Quality,Wednesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,12.0,0.618361111,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-F1,0.7,30.1,800.5,3300,50,0.0,0,Minor Style Revision,57.0,0.790003236,0
+2015-01-06,Q1,Stitching Unit,Tuesday,Line-F3,0.8,11.61,910.0,4470,38,0.0,0,No Style Change,31.5,0.80007657,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-Q2,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.927541667,0
+2015-01-24,Q4,Stitching Unit,Saturday,Line-P2,0.75,15.26,1252.5,6120,40,0.0,0,No Style Change,34.0,0.750079323,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-Q2,0.8,22.52,1088.0,6720,88,0.0,0,No Style Change,56.0,0.900129762,0
+2015-03-05,Q1,Finishing & Quality,Thursday,Line-P2,0.8,4.6,1039.0,1080,0,0.0,0,No Style Change,9.0,0.868888889,0
+2015-03-04,Q1,Stitching Unit,Wednesday,Line-C1,0.8,30.1,874.0,3960,50,0.0,0,No Style Change,59.0,0.800055762,0
+2015-02-25,Q4,Stitching Unit,Wednesday,Line-C1,0.8,30.1,800.5,7080,50,0.0,0,Major Design Shift,59.0,0.800115819,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.604166667,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-C1,0.8,25.9,1031.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-01-08,Q2, Finishing & Quality ,Thursday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.835757576,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-S1,0.7,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.806879167,0
+2015-01-04,Q1, Finishing & Quality ,Sunday,Line-S3,0.75,4.15,1039.0,1560,0,0.0,0,No Style Change,8.0,0.991388889,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-Q1,0.75,18.79,935.0,6240,45,0.0,0,No Style Change,52.0,0.750395513,0
+2015-01-13,Q2,Stitching Unit,Tuesday,Line-S3,0.8,42.27,800.5,9900,54,0.0,0,No Style Change,55.0,0.705576584,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-S3,0.7,22.52,1244.0,10260,63,0.0,0,No Style Change,57.0,0.750068049,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-Q1,0.8,26.16,1128.0,10620,63,0.0,0,No Style Change,59.0,0.800117103,0
+2015-01-25,Q4, Finishing & Quality ,Sunday,Line-S1,0.7,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.970075758,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-C2,0.8,2.9,1039.0,4800,0,0.0,0,No Style Change,8.0,0.397743056,0
+2015-02-03,Q1,Stitching Unit,Tuesday,Line-P1,0.7,25.31,946.0,5760,60,0.0,0,No Style Change,54.0,0.700513566,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-F3,0.5499999999999998,22.53,1252.5,2640,0,0.0,0,Minor Style Revision,39.0,0.26369382,0
+2015-02-07,Q1,Stitching Unit,Saturday,Line-F3,0.75,18.79,813.0,1560,34,0.0,0,No Style Change,33.0,0.750520115,0
+2015-01-31,Q5, Finishing & Quality ,Saturday,Line-S2,0.8,3.94,1039.0,1200,0,0.0,0,No Style Change,10.0,0.971866667,0
+2015-01-05,Q1, Finishing & Quality ,Monday,Line-S3,0.75,4.15,1039.0,1920,0,0.0,0,No Style Change,8.0,0.875390625,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-C2,0.75,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.676666667,0
+2015-03-04,Q1,Finishing & Quality,Wednesday,Line-S2,0.5499999999999998,3.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.5403125,0
+2015-01-28,Q4,Stitching Unit,Wednesday,Line-P1,0.5499999999999998,20.1,1252.5,5880,46,0.0,0,No Style Change,54.0,0.500567308,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-F2,0.7,4.15,1039.0,9000,0,0.0,0,No Style Change,15.0,0.742901235,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-F2,0.5499999999999998,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,0.609138258,0
+2015-02-14,Q2,Stitching Unit,Saturday,Line-S3,0.5499999999999998,30.1,1252.5,6960,30,0.0,0,Minor Style Revision,58.0,0.500801724,0
+2015-01-13,Q2, Finishing & Quality ,Tuesday,Line-F1,0.5499999999999998,4.3,1039.0,2160,0,0.0,0,No Style Change,12.0,0.952020202,0
+2015-02-16,Q3,Stitching Unit,Monday,Line-P2,0.8,15.26,1079.0,3720,38,0.0,0,No Style Change,34.0,0.800312375,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-S3,0.8,29.4,800.5,1800,63,0.0,0,No Style Change,57.0,0.800534979,0
+2015-02-22,Q4,Stitching Unit,Sunday,Line-S3,0.7,30.1,1041.0,8160,33,0.0,0,Major Design Shift,58.0,0.626577778,0
+2015-01-20,Q3, Finishing & Quality ,Tuesday,Line-F2,0.7,4.15,1039.0,1440,0,0.0,0,No Style Change,8.0,1.033570076,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-F3,0.8,18.79,800.5,3480,38,0.0,0,No Style Change,34.0,0.800947475,0
+2015-01-17,Q3,Stitching Unit,Saturday,Line-P1,0.6,14.89,1027.0,10080,38,0.0,0,No Style Change,56.0,0.600273268,0
+2015-03-02,Q1,Stitching Unit,Monday,Line-C2,0.75,29.4,800.5,6840,45,0.0,0,No Style Change,57.0,0.750473684,0
+2015-01-26,Q4,Stitching Unit,Monday,Line-P1,0.5499999999999998,28.08,800.5,10260,23,0.0,0,No Style Change,57.0,0.350066986,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-F1,0.75,5.13,1039.0,960,0,0.0,0,No Style Change,8.0,0.656666667,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-P2,0.8,11.61,1216.0,4950,50,0.0,0,No Style Change,31.5,0.80003139,0
+2015-03-01,Q1,Stitching Unit,Sunday,Line-S2,0.7,30.33,800.5,1800,0,0.0,0,No Style Change,58.0,0.683550607,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-C2,0.8,25.9,1233.0,10170,60,0.0,0,No Style Change,56.5,0.850136766,0
+2015-01-10,Q2,Stitching Unit,Saturday,Line-F3,0.8,11.41,887.0,5490,50,0.0,0,No Style Change,30.5,0.800343766,0
+2015-02-11,Q2,Stitching Unit,Wednesday,Line-P1,0.5499999999999998,11.41,800.5,3240,0,0.0,0,Minor Style Revision,52.0,0.507903226,0
+2015-01-24,Q4, Finishing & Quality ,Saturday,Line-P2,0.7,4.08,1039.0,1620,0,0.0,0,No Style Change,9.0,0.858585859,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-F3,0.75,18.79,800.5,2400,0,0.0,0,No Style Change,34.0,0.750797009,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-P2,0.8,4.6,1039.0,0,1080,0.0,0,No Style Change,9.0,0.902962963,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-Q2,0.8,22.52,1252.5,6720,88,0.0,0,No Style Change,56.0,0.900129762,0
+2015-03-02,Q1,Finishing & Quality,Monday,Line-Q2,0.7,2.9,1039.0,3360,0,0.0,0,No Style Change,8.0,0.632361111,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-C1,0.8,4.6,1039.0,4200,0,0.0,0,No Style Change,10.0,0.999533333,0
+2015-03-07,Q1,Stitching Unit,Saturday,Line-F3,0.5499999999999998,23.41,1252.5,2280,0,0.0,0,Minor Style Revision,39.0,0.500528095,0
+2015-01-12,Q2,Stitching Unit,Monday,Line-F3,0.8,11.41,843.0,5670,50,0.0,0,No Style Change,31.5,0.800181818,0
+2015-01-03,Q1,Stitching Unit,Saturday,Line-S2,0.75,19.87,944.0,6600,45,0.0,0,No Style Change,55.0,0.75024303,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-C2,0.7,30.1,800.5,5880,40,2.0,10,Minor Style Revision,59.0,0.700573099,1
+2015-01-29,Q5,Stitching Unit,Thursday,Line-S1,0.75,22.94,1252.5,6960,81,0.0,0,No Style Change,58.0,0.850362069,0
+2015-03-11,Q2,Stitching Unit,Wednesday,Line-P1,0.8,11.41,800.5,3420,50,0.0,0,No Style Change,58.0,0.800034503,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-S2,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.805909091,0
+2015-02-23,Q4,Stitching Unit,Monday,Line-Q1,0.7,18.79,1252.5,6000,40,0.0,0,Minor Style Revision,50.0,0.60128,0
+2015-02-02,Q1,Stitching Unit,Monday,Line-S3,0.8,22.52,1252.5,6840,70,0.0,0,No Style Change,57.0,0.90014152,0
+2015-02-15,Q3,Stitching Unit,Sunday,Line-F3,0.75,18.79,814.0,4080,0,0.0,0,No Style Change,34.0,0.681598039,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-S1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.891723485,0
+2015-01-01,Q1, Finishing & Quality ,Thursday,Line-Q2,0.65,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.705916667,0
+2015-01-18,Q3, Finishing & Quality ,Sunday,Line-Q1,0.8,3.94,1039.0,1800,0,0.0,0,No Style Change,10.0,0.582045455,0
+2015-02-04,Q1,Stitching Unit,Wednesday,Line-S3,0.8,22.52,968.0,6840,113,0.0,0,No Style Change,57.0,1.000230409,0
+2015-01-22,Q4,Stitching Unit,Thursday,Line-C1,0.6,22.52,1252.5,10260,23,0.0,0,No Style Change,57.0,0.60041361,0
+2015-01-10,Q2, Finishing & Quality ,Saturday,Line-C1,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.670075758,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-S2,0.6,30.33,868.0,6840,0,0.0,0,Minor Style Revision,57.0,0.328131579,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-P1,0.75,2.9,1039.0,5640,0,0.0,0,No Style Change,17.0,0.987880435,0
+2015-02-07,Q1,Finishing & Quality,Saturday,Line-Q1,0.8,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.771583333,0
+2015-03-10,Q2,Finishing & Quality,Tuesday,Line-F1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.881575,0
+2015-02-18,Q3,Stitching Unit,Wednesday,Line-F3,0.75,18.79,800.5,3960,34,0.0,0,No Style Change,33.0,0.75065101,0
+2015-02-02,Q1, Finishing & Quality ,Monday,Line-Q1,0.75,3.94,1039.0,960,0,0.0,0,No Style Change,8.0,0.994270833,0
+2015-03-10,Q2,Stitching Unit,Tuesday,Line-S2,0.7,16.1,957.0,5400,40,0.0,0,Minor Style Revision,45.0,0.700051852,0
+2015-02-09,Q2,Stitching Unit,Monday,Line-F2,0.7,30.1,800.5,7020,40,0.0,0,No Style Change,58.0,0.700618234,0
+2015-02-26,Q4,Stitching Unit,Thursday,Line-F1,0.8,30.1,800.5,7080,32,0.0,0,Major Design Shift,59.0,0.495617514,0
+2015-01-11,Q2, Finishing & Quality ,Sunday,Line-F3,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.597348485,0
+2015-02-28,Q4,Stitching Unit,Saturday,Line-S2,0.7,30.33,800.5,4560,0,0.0,0,Minor Style Revision,58.0,0.700211111,0
+2015-02-10,Q2,Stitching Unit,Tuesday,Line-Q1,0.8,29.12,1252.5,2160,38,0.0,0,No Style Change,58.0,0.8008,0
+2015-01-29,Q5,Stitching Unit,Thursday,Line-F2,0.65,20.79,1015.0,7080,81,0.0,0,No Style Change,59.0,0.800473729,0
+2015-03-05,Q1,Stitching Unit,Thursday,Line-Q2,0.7,21.82,1252.5,6000,30,0.0,0,No Style Change,50.0,0.700422,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-F3,0.8,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.6225,0
+2015-02-19,Q3,Finishing & Quality,Thursday,Line-F1,0.75,5.13,1039.0,1920,0,0.0,0,No Style Change,8.0,0.684027778,0
+2015-02-12,Q2,Stitching Unit,Thursday,Line-Q2,0.8,22.52,800.5,6000,0,0.0,0,No Style Change,50.0,0.441392,0
+2015-01-14,Q2, Finishing & Quality ,Wednesday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.667329545,0
+2015-01-03,Q1, Finishing & Quality ,Saturday,Line-Q1,0.8,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.956270833,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-F1,0.8,4.3,1039.0,1440,0,0.0,0,No Style Change,12.0,0.940625,0
+2015-01-15,Q3,Stitching Unit,Thursday,Line-P1,0.5499999999999998,14.89,917.0,9900,30,0.0,0,No Style Change,55.0,0.500025069,0
+2015-02-26,Q4,Finishing & Quality,Thursday,Line-P2,0.8,4.6,1039.0,3780,0,0.0,0,No Style Change,9.0,0.590617284,0
+2015-01-22,Q4, Finishing & Quality ,Thursday,Line-F3,0.8,2.9,1039.0,4800,0,0.0,0,No Style Change,8.0,0.626822917,0
+2015-02-17,Q3,Finishing & Quality,Tuesday,Line-C1,0.7,5.13,1039.0,1200,0,0.0,0,No Style Change,10.0,0.91375,0
+2015-01-20,Q3,Stitching Unit,Tuesday,Line-S3,0.7,22.52,1134.0,8460,50,0.0,0,No Style Change,57.0,0.750037968,0
+2015-02-15,Q3,Finishing & Quality,Sunday,Line-P2,0.8,4.08,1039.0,1080,0,0.0,0,No Style Change,9.0,0.876444444,0
+2015-01-08,Q2,Stitching Unit,Thursday,Line-S1,0.8,26.16,1189.0,10620,75,0.0,0,No Style Change,59.0,0.850502311,0
+2015-02-22,Q4,Finishing & Quality,Sunday,Line-Q1,0.8,3.94,1039.0,2400,0,0.0,0,No Style Change,10.0,0.753525,0
+2015-03-08,Q2,Stitching Unit,Sunday,Line-C2,0.6,30.48,869.0,6720,0,0.0,0,Minor Style Revision,56.0,0.600528571,0
+2015-01-06,Q1, Finishing & Quality ,Tuesday,Line-Q1,0.8,3.94,1039.0,1440,0,0.0,0,No Style Change,8.0,0.858143939,0
+2015-01-19,Q3, Finishing & Quality ,Monday,Line-C2,0.8,2.9,1039.0,1440,0,0.0,0,No Style Change,8.0,0.683806818,0
+2015-01-27,Q4, Finishing & Quality ,Tuesday,Line-C1,0.5499999999999998,4.15,1039.0,960,0,0.0,0,No Style Change,8.0,0.803541667,0
+2015-01-07,Q1,Stitching Unit,Wednesday,Line-F2,0.7,21.98,800.5,9720,40,0.0,0,No Style Change,58.0,0.700480831,0
+2015-03-03,Q1,Finishing & Quality,Tuesday,Line-F2,0.7,4.6,1039.0,3360,0,0.0,0,No Style Change,8.0,0.354444444,0
+2015-03-07,Q1,Finishing & Quality,Saturday,Line-F3,0.5499999999999998,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.7975,0
+2015-03-09,Q2,Finishing & Quality,Monday,Line-F2,0.6,3.94,1039.0,0,2880,0.0,0,No Style Change,12.0,0.864342593,0
+2015-02-19,Q3,Stitching Unit,Thursday,Line-C1,0.75,30.1,800.5,0,0,5.0,20,Minor Style Revision,59.0,0.611140537,1
+2015-03-08,Q2,Finishing & Quality,Sunday,Line-Q2,0.7,2.9,1039.0,960,0,0.0,0,No Style Change,8.0,0.441041667,0

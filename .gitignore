@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# --- Virtual Environment ---
+gearshift/
+
+# --- Environment / Secrets ---
+.env
+.env.*
+*.env
+
+# --- Build / Distribution ---
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# --- Logs and Temp ---
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
