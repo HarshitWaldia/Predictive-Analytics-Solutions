@@ -14,6 +14,30 @@ This repository serves as a portfolio showcasing end-to-end Machine Learning pro
 </p>
 
 ---
+## 🚀 New Notebook Added: Predictive Manufacturing Efficiency Analysis! 🚀
+
+I've just added a comprehensive Jupyter Notebook, **main.ipynb**, to the repository! This notebook contains the complete workflow for predicting manufacturing production efficiency.
+
+**Where to find it:**
+
+*   **Local Path:** `D:\Omnie Solutions\Mark-1\Manufacturing-Team\Notebooks\Main.ipynb`
+*   **GitHub:** [Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb](https://github.com/Predictive-Analytics-Solutions/Manufacturing-Team/blob/main/Notebooks/Main.ipynb)
+
+**📘 What’s Inside main.ipynb:**
+
+*   ✅ **Exploratory Data Analysis (EDA):**  Includes data cleaning, preprocessing (handling missing values, outliers, and correlations), and insightful visualizations.
+*   ✅ **Feature Engineering:**  Covers encoding categorical features, scaling/normalization, and the creation of derived/interaction features.
+*   ✅ **Model Training & Evaluation:**  We've implemented and compared Linear Regression, Random Forest, and XGBoost models, evaluating performance using MAE, RMSE, and R².  Hyperparameter tuning was performed using GridSearchCV.
+*   ✅ **User Input Prediction:**  An interactive section allows you to input custom data and receive instant predictions from the model!
+
+All the work is consolidated inside this single notebook, making it easy to follow, understand, and reproduce our results.  
+
+Check it out and let us know what you think! ✨
+
+
+
+
+---
 
 ## 📁 Project 1: Manufacturing Team Efficiency Prediction
 
