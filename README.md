@@ -20,7 +20,7 @@ I've just added a comprehensive Jupyter Notebook, **main.ipynb**, to the reposit
 
 **Where to find it:**
 
-*   **GitHub:** [Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb](https://github.com/Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb)
+*   **GitHub:** [Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb](https://github.com/HarshitWaldia/Predictive-Analytics-Solutions/blob/main/Manufacturing-Team/Notebooks/Main.ipynb)
 
 **📘 What’s Inside main.ipynb:**
 
