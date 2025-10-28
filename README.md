@@ -20,8 +20,7 @@ I've just added a comprehensive Jupyter Notebook, **main.ipynb**, to the reposit
 
 **Where to find it:**
 
-*   **Local Path:** `D:\Omnie Solutions\Mark-1\Manufacturing-Team\Notebooks\Main.ipynb`
-*   **GitHub:** [Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb](https://github.com/Predictive-Analytics-Solutions/Manufacturing-Team/blob/main/Notebooks/Main.ipynb)
+*   **GitHub:** [Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb](https://github.com/Predictive-Analytics-Solutions/Manufacturing-Team/Notebooks/Main.ipynb)
 
 **📘 What’s Inside main.ipynb:**
 
