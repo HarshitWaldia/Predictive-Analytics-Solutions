@@ -163,7 +163,7 @@ To run these projects locally:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/HarshitWaldia/Predictive-Analytics-Solutions.git
-    cd ml-project-portfolio
+    cd Predictive-Analytics-Solutions
     ```
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
